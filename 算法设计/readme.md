@@ -1,13 +1,12 @@
 # 文献收集与整理
 
-## 算法设计TODO List
+## V1 TODO List
 
- - [ ] 21年-24年三大顶会，CCF-A, nature, science中有关SNN的论文收集，整理到算法设计中
+这一版的文献，可能有一些会归到软硬件开发中，涉及系统，软件等的的文章这一期内不包含，主要是AI相关的会
+
+ - [ ] 21年-24年三大顶会，CCF-A中有关SNN的论文收集，整理到算法设计中
  - [ ] 缺失 2024nips, 2024 icml
  - [ ] ccfa中: ijcai2024, kdd2024, cvpr2024, mm2024 缺失
- - [ ] arxiv待补全 （大组24年新发表但没见刊）
+ - [ ] arxiv待补全 （大组24年新发表但没见刊,SCI高引,nature/science等）@Lvchangze 看看有什么能补的
  - [ ] 针对算法设计中的全文献进行分类
 
-## 架构部署TODO List
-
-## 软硬件开发TODO List
