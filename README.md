@@ -1,1 +1,1 @@
-# Library
+# Awesome-Spiking-Neural-network-with-Edge-Computing
