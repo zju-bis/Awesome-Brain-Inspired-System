@@ -1,1 +1,1 @@
-# Awesome-Spiking-Neural-network-with-Edge-Computing
+# Awesome-Spiking-Neural-Network
