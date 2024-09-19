@@ -7,19 +7,19 @@ This repository collected papers from influential conferences and journals (AI-o
  - [Papers](#papers)
    - [Network Architecture Search](#network-architecture-search)
    - [Spike Graph Neural Network](#Spike-Graph-Neural-Network)
-   - [Recurrent Spiking Neural Network](#)
-   - [Convolutional Spiking Neural Network](#)
-   - [Spiking Encoder and Decoder](#)
-   - [Lightweight Spiking Neural Networks](#)
-   - [ANN2SNN](#)
-   - [Bio-inspired Neuron Optimization](#)
-   - [Bio-inspired Training Loss Optimization](#)
-   - [Surrogate Gradient Optimization](#)
-   - [Hybrid Learning](#)
-   - [Adversarial Spiking Neural Networks](#)
-   - [Continual Learning with Spiking Neural Networks](#)
-   - [Inference Acceleration](#)
-   - [Insights](#)
+   - [Recurrent Spiking Neural Network](#Recurrent-Spiking-Neural-Network)
+   - [Convolutional Spiking Neural Network](#Convolutional-Spiking-Neural-Network)
+   - [Spiking Encoder and Decoder](#Spiking-Encoder-and-Decoder)
+   - [Lightweight Spiking Neural Networks](#Lightweight-Spiking-Neural-Networks)
+   - [ANN2SNN](#ann2snn)
+   - [Bio-inspired Neuron Optimization](#Bio-inspired-Neuron-Optimization)
+   - [Bio-inspired Training Loss Optimization](#Bio-inspired-Training-Loss-Optimization)
+   - [Surrogate Gradient Optimization](#Surrogate-Gradient-Optimization)
+   - [Hybrid Learning](#Hybrid-Learning)
+   - [Adversarial Spiking Neural Networks](#Adversarial-Spiking-Neural-Networks)
+   - [Continual Learning with Spiking Neural Networks](#Continual-Learning-with-Spiking-Neural-Networks)
+   - [Inference Acceleration](#Inference-Acceleration)
+
 
 
 ## TODO List
@@ -189,7 +189,3 @@ This repository collected papers from influential conferences and journals (AI-o
  - DCT-SNN: Using DCT to Distribute Spatial Information over Time for Low-Latency Spiking Neural Networks
  - Shrinking Your TimeStep: Towards Low-Latency Neuromorphic Object Recognition with Spiking Neural Networks
 
-### Insights
-
- - A Differentiable Point Process with Its Application to Spiking Neural Networks
- - Training Feedback Spiking Neural Networks by Implicit Differentiation on the Equilibrium State
