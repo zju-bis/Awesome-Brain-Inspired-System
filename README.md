@@ -6,7 +6,7 @@ This repository collected papers from influential conferences and journals (AI-o
 
  - [Papers](#papers)
    - [Network Architecture Search](#network-architecture-search)
-   - [Spike Graph Neural Network](#)
+   - [Spike Graph Neural Network](#Spike-Graph-Neural-Network)
    - [Recurrent Spiking Neural Network](#)
    - [Convolutional Spiking Neural Network](#)
    - [Spiking Encoder and Decoder](#)
