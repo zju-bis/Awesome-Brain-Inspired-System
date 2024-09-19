@@ -2,6 +2,26 @@
 
 This repository collected papers from influential conferences and journals (AI-oriented CCF-A from 2021 to 2024) related to brain-inspired systems. You can add more related papers by pulling the request. 😊
 
+## Contents
+
+ - [Papers](#papers)
+   - [Network Architecture Search](#network-architecture-search)
+   - [Spike Graph Neural Network](#)
+   - [Recurrent Spiking Neural Network](#)
+   - [Convolutional Spiking Neural Network](#)
+   - [Spiking Encoder and Decoder](#)
+   - [Lightweight Spiking Neural Networks](#)
+   - [ANN2SNN](#)
+   - [Bio-inspired Neuron Optimization](#)
+   - [Bio-inspired Training Loss Optimization](#)
+   - [Surrogate Gradient Optimization](#)
+   - [Hybrid Learning](#)
+   - [Adversarial Spiking Neural Networks](#)
+   - [Continual Learning with Spiking Neural Networks](#)
+   - [Inference Acceleration](#)
+   - [Insights](#)
+
+
 ## TODO List
 
  - [ ] Missing ICML 2024
@@ -58,7 +78,7 @@ This repository collected papers from influential conferences and journals (AI-o
  - Temporal-Coded Deep Spiking Neural Network with Easy Training and Robust Performance
  - Learning A Spiking Neural Network for Efficient Image Deraining
 
-### Spiking Encoder and Decoder
+### Spiking Encoder
 
  - Learning to Time-Decode in Spiking Neural Networks Through the Information Bottleneck
  - Recognizing High-Speed Moving Objects with Spike Camera
@@ -157,7 +177,7 @@ This repository collected papers from influential conferences and journals (AI-o
 
 ### Continual Learning with Spiking Neural Networks
  - Online stabilization of spiking neural networks
- - A progressive training framework for spiking neural networks with learnable multi-hierarchical model
+ - A progressive training framework for spiking neural networks with a learnable multi-hierarchical model
  - Hebbian learning-based orthogonal projection for continual learning of spiking neural networks
  - Training Spiking Neural Networks with Local Tandem Learning
  - Enhancing Efficient Continual Learning with Dynamic Structure Development of Spiking Neural Networks
