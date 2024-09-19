@@ -174,6 +174,7 @@ This repository collected papers from influential conferences and journals (AI-o
  - SNN-RAT: Robustness-enhanced Spiking Neural Network through Regularized Adversarial Training
  - Toward Robust Spiking Neural Network Against Adversarial Perturbation
  - HIRE-SNN: Harnessing the Inherent Robustness of Energy-Efficient Deep Spiking Neural Networks by Training with Crafted Input Noise
+ - Robust Stable Spiking Neural Networks
 
 ### Continual Learning with Spiking Neural Networks
  - Online stabilization of spiking neural networks
