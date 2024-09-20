@@ -18,6 +18,7 @@ This repository collected papers from influential conferences and journals (AI-o
    - [Hybrid Learning](#Hybrid-Learning)
    - [Adversarial Spiking Neural Networks](#Adversarial-Spiking-Neural-Networks)
    - [Continual Learning with Spiking Neural Networks](#Continual-Learning-with-Spiking-Neural-Networks)
+   - [Online Learning with Spiking Neural Networks](#Online-Learning-with-Spiking-Neural-Networks)
    - [Inference Acceleration](#Inference-Acceleration)
 
 
@@ -179,12 +180,16 @@ This repository collected papers from influential conferences and journals (AI-o
  - Robust Stable Spiking Neural Networks
 
 ### Continual Learning with Spiking Neural Networks
- - Online stabilization of spiking neural networks
  - A progressive training framework for spiking neural networks with a learnable multi-hierarchical model
  - Hebbian learning-based orthogonal projection for continual learning of spiking neural networks
  - Training Spiking Neural Networks with Local Tandem Learning
  - Enhancing Efficient Continual Learning with Dynamic Structure Development of Spiking Neural Networks
  - Efficient Spiking Neural Networks with Sparse Selective Activation for Continual Learning
+
+### Online Learning with Spiking Neural Networks
+
+ - Online stabilization of spiking neural networks
+ - NDOT: Neuronal Dynamics-based Online Training for Spiking Neural Networks
 
 ### Inference Acceleration
  - EC-SNN: Splitting Deep Spiking Neural Networks for Edge Devices
