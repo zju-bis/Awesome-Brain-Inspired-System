@@ -9,7 +9,7 @@ This repository collected papers from influential conferences and journals (AI-o
    - [Spiking Graph Neural Network](#Spiking-Graph-Neural-Network)
    - [Spiking Recurrent Neural Network](#Spiking-Recurrent-Neural-Network)
    - [Spiking Convolutional Neural Network](#Spiking-Convolutional-Neural-Network)
-   - [Spiking Encoder](#Spiking-Encoder)
+   - [Spike-driven MLP](#Spike-driven-MLP)
    - [Lightweight Spiking Neural Networks](#Lightweight-Spiking-Neural-Networks)
    - [ANN2SNN](#ann2snn)
    - [Bio-inspired Neuron Optimization](#Bio-inspired-Neuron-Optimization)
@@ -78,7 +78,7 @@ This repository collected papers from influential conferences and journals (AI-o
  - Temporal-Coded Deep Spiking Neural Network with Easy Training and Robust Performance
  - Learning A Spiking Neural Network for Efficient Image Deraining
 
-### Spiking Encoder
+### Spike-driven MLP
 
  - Learning to Time-Decode in Spiking Neural Networks Through the Information Bottleneck
  - Recognizing High-Speed Moving Objects with Spike Camera
