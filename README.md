@@ -120,6 +120,7 @@ This repository collected papers from influential conferences and journals (AI-o
  - Near Lossless Transfer Learning for Spiking Neural Networks
  - Strategy and Benchmark for Converting Deep Q-Networks to Event-Driven Spiking Neural Networks
  - Apprenticeship-Inspired Elegance: Synergistic Knowledge Distillation Empowers Spiking Neural Networks for Efficient Single-Eye Emotion Recognition
+ - SpikeZIP-TF: Conversion is All You Need for Transformer-based SNN
 
 ### Bio-inspired Neuron Optimization
 
@@ -201,4 +202,5 @@ This repository collected papers from influential conferences and journals (AI-o
  - Unleashing the Potential of Spiking Neural Networks with Dynamic Confidence
  - DCT-SNN: Using DCT to Distribute Spatial Information over Time for Low-Latency Spiking Neural Networks
  - Shrinking Your TimeStep: Towards Low-Latency Neuromorphic Object Recognition with Spiking Neural Networks
+ - Towards Efficient Spiking Transformer: a Token Sparsification Framework for Training and Inference Acceleration
 
