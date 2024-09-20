@@ -6,10 +6,10 @@ This repository collected papers from influential conferences and journals (AI-o
 
  - [Papers](#papers)
    - [Network Architecture Search](#network-architecture-search)
-   - [Spike Graph Neural Network](#Spike-Graph-Neural-Network)
-   - [Recurrent Spiking Neural Network](#Recurrent-Spiking-Neural-Network)
-   - [Convolutional Spiking Neural Network](#Convolutional-Spiking-Neural-Network)
-   - [Spiking Encoder and Decoder](#Spiking-Encoder-and-Decoder)
+   - [Spike Graph Neural Network](#Spiking-Graph-Neural-Network)
+   - [Recurrent Spiking Neural Network](#Spiking-Recurrent-Neural-Network)
+   - [Convolutional Spiking Neural Network](#Spiking-Convolutional-Neural-Network)
+   - [Spiking Encoder and Decoder](#Spiking-Encoder)
    - [Lightweight Spiking Neural Networks](#Lightweight-Spiking-Neural-Networks)
    - [ANN2SNN](#ann2snn)
    - [Bio-inspired Neuron Optimization](#Bio-inspired-Neuron-Optimization)
@@ -37,7 +37,7 @@ This repository collected papers from influential conferences and journals (AI-o
  - Differentiable hierarchical and surrogate gradient search for spiking neural networks
  - ESL-SNNs: An Evolutionary Structure Learning Strategy for Spiking Neural Networks
 
-### Spike Graph Neural Network
+### Spiking Graph Neural Network
 
   - A graph is worth 1-bit spikes: when graph contrastive learning meets spiking neural networks
   - Exploiting Spiking Dynamics with Spatial-temporal Feature Normalization in Graph Learning
@@ -46,7 +46,7 @@ This repository collected papers from influential conferences and journals (AI-o
   - Dynamic Reactive Spiking Graph Neural Network
   - Scaling Up Dynamic Graph Representation Learning via Spiking Neural Networks
 
-### Spike Attention Mechanism
+### Spiking Attention Mechanism
 
  - LMUFormer: Low complexity yet powerful spiking model with Legendre memory units
  - Spikformer: when spiking neural network meets transformer
@@ -59,12 +59,12 @@ This repository collected papers from influential conferences and journals (AI-o
  - One-step Spiking Transformer with a Linear Complexity
  - TIM: An Efficient Temporal Interaction Module for Spiking Transformer
 
-### Recurrent Spiking Neural Network
+### Spiking Recurrent Neural Network
 
  - Enhancing Adaptive History Reserving by Spiking Convolutional Block Attention Module in Recurrent Neural Networks
  - Spiking Neural Networks with Improved Inherent Recurrence Dynamics for Sequential Learning
 
-### Convolutional Spiking Neural Network
+### Spiking Convolutional Neural Network
 
  - spiking convolutional neural networks for text classification
  - Spiking PointNet: Spiking Neural Networks for Point Clouds
@@ -131,6 +131,7 @@ This repository collected papers from influential conferences and journals (AI-o
  - Ternary Spike: Learning Ternary Spikes for Spiking Neural Networks
  - TC-LIF: A Two-Compartment Spiking Neuron Model for Long-Term Sequential Modelling
  - Deep Spiking Neural Network with Neural Oscillation and Spike-Phase Information
+ - High-Performance Temporal Reversible Spiking Neural Networks with $\mathcal{O}$(L) Training Memory and $\mathcal{O}$(1) Inference Cost
 
 ### Bio-inspired Training Loss Optimization
 
