@@ -25,7 +25,7 @@ This repository collected papers from influential conferences and journals (AI-o
 
 ## TODO List
 
- - [ ] Missing ICML 2024
+ - [x] Missing ICML 2024
  - [ ] Missing MM 2024
  - [ ] Missing Nips 2024
 
@@ -46,6 +46,7 @@ This repository collected papers from influential conferences and journals (AI-o
   - Dynamic Spiking Graph Neural Networks
   - Dynamic Reactive Spiking Graph Neural Network
   - Scaling Up Dynamic Graph Representation Learning via Spiking Neural Networks
+  - Temporal Spiking Neural Networks with Synaptic Delay for Graph Reasoning
 
 ### Spiking Attention Mechanism
 
