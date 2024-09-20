@@ -100,6 +100,7 @@ This repository collected papers from influential conferences and journals (AI-o
  - towards energy efficient spiking neural networks: an unstructured pruning framework
  - sparse spiking neural network: exploring heterogeneity in time scales for pruning recurrent SNN
  - LitE-SNN: Designing Lightweight and Efficient Spiking Neural Network through Spatial-Temporal Compressive Network Search and Joint Optimization
+ - Towards Efficient Deep Spiking Neural Networks Construction with Spiking Activity based Pruning
 
 ### ANN2SNN
 
