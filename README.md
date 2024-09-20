@@ -61,6 +61,7 @@ This repository collected papers from influential conferences and journals (AI-o
  - One-step Spiking Transformer with a Linear Complexity
  - TIM: An Efficient Temporal Interaction Module for Spiking Transformer
  - Efficient and Effective Time-Series Forecasting with Spiking Neural Networks
+ - SpikeLM: Towards General Spike-Driven Language Modeling via Elastic Bi-Spiking Mechanisms
 
 ### Spiking Recurrent Neural Network
 
