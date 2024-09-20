@@ -7,6 +7,7 @@ This repository collected papers from influential conferences and journals (AI-o
  - [Papers](#papers)
    - [Network Architecture Search](#network-architecture-search)
    - [Spiking Graph Neural Network](#Spiking-Graph-Neural-Network)
+   - [Spiking Attention Mechanism](#Spiking-Attention-Mechanism)
    - [Spiking Recurrent Neural Network](#Spiking-Recurrent-Neural-Network)
    - [Spiking Convolutional Neural Network](#Spiking-Convolutional-Neural-Network)
    - [Spike-driven MLP](#Spike-driven-MLP)
