@@ -59,6 +59,7 @@ This repository collected papers from influential conferences and journals (AI-o
  - Complex Dynamic Neurons Improved Spiking Transformer Network for Efficient Automatic Speech Recognition
  - One-step Spiking Transformer with a Linear Complexity
  - TIM: An Efficient Temporal Interaction Module for Spiking Transformer
+ - Efficient and Effective Time-Series Forecasting with Spiking Neural Networks
 
 ### Spiking Recurrent Neural Network
 
