@@ -2,6 +2,10 @@
 
 This repository collected papers from influential conferences and journals (AI-oriented CCF-A from 2021 to 2024) related to brain-inspired systems. You can add more related papers by pulling the request. 😊
 
+**Suggested follow-up research sequence for future contributors**: 
+  - AI-related: AAAI->ICLR->IJCAI->MM->ICML->NIPS
+  - Sys-related: TODO
+
 ## Contents
 
  - [Papers](#papers)
@@ -26,9 +30,12 @@ This repository collected papers from influential conferences and journals (AI-o
 
 ## TODO List
 
- - [x] Missing ICML 2024
- - [ ] Missing MM 2024
- - [ ] Missing Nips 2024
+ - [] Missing AAAI 2025
+ - [] Missing ICLR 2025
+ - [] Missing IJCAI 2025
+ - [] Missing MM 2025
+ - [] Missing ICML 2025
+ - [] Missing NIPS 2025
 
 ## Papers
 
