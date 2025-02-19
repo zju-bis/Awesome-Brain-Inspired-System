@@ -115,6 +115,8 @@ This repository collected papers from influential conferences and journals (AI-o
  - sparse spiking neural network: exploring heterogeneity in time scales for pruning recurrent SNN
  - LitE-SNN: Designing Lightweight and Efficient Spiking Neural Network through Spatial-Temporal Compressive Network Search and Joint Optimization
  - Towards Efficient Deep Spiking Neural Networks Construction with Spiking Activity based Pruning
+ - Reversing Structural Pattern Learning with Biologically Inspired Knowledge Distillation for Spiking Neural Networks
+ - Q-SNNs: Quantized Spiking Neural Networks
 
 ### ANN2SNN
 
@@ -185,6 +187,7 @@ This repository collected papers from influential conferences and journals (AI-o
  - sequence approximation using feedforward spiking neural network for spatiotemporal learning: theory and optimization methods
  - SEENN: Towards Temporal Spiking Early-Exit Neural Networks
  - EICIL: Joint Excitatory Inhibitory Cycle Iteration Learning for Deep Spiking Neural Networks
+ - Towards Low-latency Event-based Visual Recognition with Hybrid Step-wise Distillation Spiking Neural Networks
 
 ### Adversarial Spiking Neural Networks
 
@@ -195,6 +198,7 @@ This repository collected papers from influential conferences and journals (AI-o
  - Toward Robust Spiking Neural Network Against Adversarial Perturbation
  - HIRE-SNN: Harnessing the Inherent Robustness of Energy-Efficient Deep Spiking Neural Networks by Training with Crafted Input Noise
  - Robust Stable Spiking Neural Networks
+ - RSC-SNN: Exploring the Trade-off Between Adversarial Robustness and Accuracy in Spiking Neural Networks via Randomized Smoothing Coding
 
 ### Continual Learning with Spiking Neural Networks
  - A progressive training framework for spiking neural networks with a learnable multi-hierarchical model
