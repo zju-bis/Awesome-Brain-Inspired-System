@@ -70,11 +70,14 @@ This repository collected papers from influential conferences and journals (AI-o
  - TIM: An Efficient Temporal Interaction Module for Spiking Transformer
  - Efficient and Effective Time-Series Forecasting with Spiking Neural Networks
  - SpikeLM: Towards General Spike-Driven Language Modeling via Elastic Bi-Spiking Mechanisms
+ - PSSD-Transformer: Powerful Sparse Spike-Driven Transformer for Image Semantic Segmentation
+ - Towards High-performance Spiking Transformers from ANN to SNN Conversion
 
 ### Spiking Recurrent Neural Network
 
  - Enhancing Adaptive History Reserving by Spiking Convolutional Block Attention Module in Recurrent Neural Networks
  - Spiking Neural Networks with Improved Inherent Recurrence Dynamics for Sequential Learning
+ - RSNN: Recurrent Spiking Neural Networks for Dynamic Spatial-Temporal Information Processing
 
 ### Spiking Convolutional Neural Network
 
