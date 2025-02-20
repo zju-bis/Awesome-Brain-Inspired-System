@@ -74,6 +74,7 @@ This repository collected papers from influential conferences and journals (AI-o
  - Spike-based Neuromorphic Model for Sound Source Localization (NIPS'2024)
  - Spiking Token Mixer: An Event-Driven Friendly Former Structure for Spiking Neural Networks (NIPS'2024)
  - Spiking Transformer with Experts Mixture (NIPS'2024)
+ - SpikingResformer: Bridging ResNet and Vision Transformer in Spiking Neural Networks (CVPR'2024)
 
 ### Spiking Recurrent Neural Network
  
@@ -110,6 +111,7 @@ This repository collected papers from influential conferences and journals (AI-o
  - Unsupervised Optical Flow Estimation with Dynamic Timing Representation for Spike Camera (NIPS'2023)
  - Spiking NeRF: Representing the Real-World Geometry by a Discontinuous Representation (AAAI'2024)
  - spikepoint: an efficient point-based spiking neural network for event cameras'action recognition (ICLR'2024)
+ - SpikeNeRF: Learning Neural Radiance Fields from Continuous Spike Stream (CVPR'2024)
 
 ### Lightweight Spiking Neural Networks
 
@@ -199,6 +201,7 @@ This repository collected papers from influential conferences and journals (AI-o
  - EICIL: Joint Excitatory Inhibitory Cycle Iteration Learning for Deep Spiking Neural Networks (NIPS'2023)
  - Towards Low-latency Event-based Visual Recognition with Hybrid Step-wise Distillation Spiking Neural Networks (MM'2024)
  - piking Neural Network as Adaptive Event Stream Slicer (NIPS'2024)
+ - SFOD: Spiking Fusion Object Detector (CVPR'2024)
 
 ### Adversarial Spiking Neural Networks
 
@@ -211,6 +214,7 @@ This repository collected papers from influential conferences and journals (AI-o
  - Robust Stable Spiking Neural Networks (ICML'2024)
  - RSC-SNN: Exploring the Trade-off Between Adversarial Robustness and Accuracy in Spiking Neural Networks via Randomized Smoothing Coding (MM'2024)
  - FEEL-SNN: Robust Spiking Neural Networks with Frequency Encoding and Evolutionary Leak Factor (NIPS'2024)
+ - Rate Gradient Approximation Attack Threats Deep Spiking Neural Networks (CVPR'2024)
 
 ### Continual Learning with Spiking Neural Networks
 
