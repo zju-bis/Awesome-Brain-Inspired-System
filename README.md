@@ -178,59 +178,61 @@ This repository collected papers from influential conferences and journals (AI-o
 
 ### Surrogate Gradient Optimization
 
- - Adaptive Smoothing Gradient Learning for Spiking Neural Networks
- - Surrogate Module Learning: Reduce the Gradient Error Accumulation in Training Spiking Neural Networks
- - Temporal efficient training of spiking neural network via gradient re-weighting
- - Sparse Spiking Gradient Descent
- - Differentiable Spike: Rethinking Gradient-Descent for Training Spiking Neural Networks
- - Online Training Through Time for Spiking Neural Networks
- - Towards Memory- and Time-Efficient Backpropagation for Training Spiking Neural Networks
- - Multi-Level Firing with Spiking DS-ResNet: Enabling Better and Deeper Directly-Trained Spiking Neural Networks
- - Learnable Surrogate Gradient for Direct Training Spiking Neural Networks
- - Training Spiking Neural Networks with Accumulated Spiking Flow 
+ - Training Spiking Neural Networks with Accumulated Spiking Flow (AAAI'2021)
+ - Differentiable Spike: Rethinking Gradient-Descent for Training Spiking Neural Networks (NIPS'2021)
+ - Sparse Spiking Gradient Descent (NIPS'2021)
+ - Temporal efficient training of spiking neural network via gradient re-weighting (ICLR'2022)
+ - Online Training Through Time for Spiking Neural Networks (NIPS'2022)
+ - Multi-Level Firing with Spiking DS-ResNet: Enabling Better and Deeper Directly-Trained Spiking Neural Networks (IJCAI'2022)
+ - Adaptive Smoothing Gradient Learning for Spiking Neural Networks (ICML'2023)
+ - Surrogate Module Learning: Reduce the Gradient Error Accumulation in Training Spiking Neural Networks (ICML'2023)
+ - Towards Memory- and Time-Efficient Backpropagation for Training Spiking Neural Networks (ICCV'2023)
+ - Learnable Surrogate Gradient for Direct Training Spiking Neural Networks (IJCAI'2023)
  - Advancing Training Efficiency of Deep Spiking Neural Networks through Rate-based Backpropagation (NIPS'2024)
  - Take A Shortcut Back: Mitigating the Gradient Vanishing for Training Spiking Neural Networks (NIPS'2024)
 
 ### Hybrid Learning
 
- - adaptive deep spiking neural network with global-local learning via balanced excitation and inhibitory mechanism
- - sequence approximation using feedforward spiking neural network for spatiotemporal learning: theory and optimization methods
- - SEENN: Towards Temporal Spiking Early-Exit Neural Networks
- - EICIL: Joint Excitatory Inhibitory Cycle Iteration Learning for Deep Spiking Neural Networks
- - Towards Low-latency Event-based Visual Recognition with Hybrid Step-wise Distillation Spiking Neural Networks
+ - sequence approximation using feedforward spiking neural network for spatiotemporal learning: theory and optimization methods (ICLR'2021)
+ - adaptive deep spiking neural network with global-local learning via balanced excitation and inhibitory mechanism (ICLR'2023)
+ - SEENN: Towards Temporal Spiking Early-Exit Neural Networks (NIPS'2023)
+ - EICIL: Joint Excitatory Inhibitory Cycle Iteration Learning for Deep Spiking Neural Networks (NIPS'2023)
+ - Towards Low-latency Event-based Visual Recognition with Hybrid Step-wise Distillation Spiking Neural Networks (MM'2024)
  - piking Neural Network as Adaptive Event Stream Slicer (NIPS'2024)
 
 ### Adversarial Spiking Neural Networks
 
- - Enhancing the Robustness of Spiking Neural Networks with Stochastic Gating Mechanisms
- - Certified adversarial robustness for rate-encoded spiking neural networks
- - Threaten Spiking Neural Networks Through Combining Rate and Temporal Information
- - SNN-RAT: Robustness-enhanced Spiking Neural Network through Regularized Adversarial Training
- - Toward Robust Spiking Neural Network Against Adversarial Perturbation
- - HIRE-SNN: Harnessing the Inherent Robustness of Energy-Efficient Deep Spiking Neural Networks by Training with Crafted Input Noise
- - Robust Stable Spiking Neural Networks
- - RSC-SNN: Exploring the Trade-off Between Adversarial Robustness and Accuracy in Spiking Neural Networks via Randomized Smoothing Coding
+ - HIRE-SNN: Harnessing the Inherent Robustness of Energy-Efficient Deep Spiking Neural Networks by Training with Crafted Input Noise (ICCV'2021)
+ - SNN-RAT: Robustness-enhanced Spiking Neural Network through Regularized Adversarial Training (NIPS'2022)
+ - Toward Robust Spiking Neural Network Against Adversarial Perturbation (NIPS'2022)
+ - Threaten Spiking Neural Networks Through Combining Rate and Temporal Information (ICLR'2023)
+ - Enhancing the Robustness of Spiking Neural Networks with Stochastic Gating Mechanisms (AAAI'2024)
+ - Certified adversarial robustness for rate-encoded spiking neural networks (ICLR'2024)
+ - Robust Stable Spiking Neural Networks (ICML'2024)
+ - RSC-SNN: Exploring the Trade-off Between Adversarial Robustness and Accuracy in Spiking Neural Networks via Randomized Smoothing Coding (MM'2024)
  - FEEL-SNN: Robust Spiking Neural Networks with Frequency Encoding and Evolutionary Leak Factor (NIPS'2024)
 
 ### Continual Learning with Spiking Neural Networks
- - A progressive training framework for spiking neural networks with a learnable multi-hierarchical model
- - Hebbian learning-based orthogonal projection for continual learning of spiking neural networks
- - Training Spiking Neural Networks with Local Tandem Learning
- - Enhancing Efficient Continual Learning with Dynamic Structure Development of Spiking Neural Networks
- - Efficient Spiking Neural Networks with Sparse Selective Activation for Continual Learning
+
+ - Training Spiking Neural Networks with Local Tandem Learning (NIPS'2022)
+ - Enhancing Efficient Continual Learning with Dynamic Structure Development of Spiking Neural Networks (IJCAI'2023)
+ - A progressive training framework for spiking neural networks with a learnable multi-hierarchical model (ICLR'2023)
+ - Efficient Spiking Neural Networks with Sparse Selective Activation for Continual Learning (AAAI'2024)
+ - Hebbian learning-based orthogonal projection for continual learning of spiking neural networks (ICLR'2024)
 
 ### Online Learning with Spiking Neural Networks
 
- - Online stabilization of spiking neural networks
- - NDOT: Neuronal Dynamics-based Online Training for Spiking Neural Networks
+ - Online stabilization of spiking neural networks (ICLR'2024)
+ - NDOT: Neuronal Dynamics-based Online Training for Spiking Neural Networks (ICML'2024)
  - Continuous Spatiotemporal Events Decoupling through Spike-based Bayesian Computation (NIPS'2024)
 
 ### Inference Acceleration
- - EC-SNN: Splitting Deep Spiking Neural Networks for Edge Devices
- - Unleashing the Potential of Spiking Neural Networks with Dynamic Confidence
- - DCT-SNN: Using DCT to Distribute Spatial Information over Time for Low-Latency Spiking Neural Networks
- - Shrinking Your TimeStep: Towards Low-Latency Neuromorphic Object Recognition with Spiking Neural Networks
- - Towards Efficient Spiking Transformer: a Token Sparsification Framework for Training and Inference Acceleration
+
+ - DCT-SNN: Using DCT to Distribute Spatial Information over Time for Low-Latency Spiking Neural Networks (ICCV'2021)
+ - Unleashing the Potential of Spiking Neural Networks with Dynamic Confidence (ICCV'2023)
+ - Shrinking Your TimeStep: Towards Low-Latency Neuromorphic Object Recognition with Spiking Neural Networks (AAAI'2024)
+ - Towards Efficient Spiking Transformer: a Token Sparsification Framework for Training and Inference Acceleration (ICML'2024)
+ - EC-SNN: Splitting Deep Spiking Neural Networks for Edge Devices (IJCAI'2024)
 
 ### Solver with Spiking Neural Networks
   - Slack-Free Spiking Neural Network Formulation for Hypergraph Minimum Vertex Cover (NIPS'2024)
