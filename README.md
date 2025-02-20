@@ -74,6 +74,7 @@ This repository collected papers from influential conferences and journals (AI-o
  - Towards High-performance Spiking Transformers from ANN to SNN Conversion
  - Advancing Spiking Neural Networks for Sequential Modeling with Central Pattern Generators (NIPS'2024)
  - QKFormer: Hierarchical Spiking Transformer using Q-K Attention (NIPS'2024)
+ - SpGesture: Source-Free Domain-adaptive sEMG-based Gesture Recognition with Jaccard Attentive Spiking Neural Network (NIPS'2024)
 
 ### Spiking Recurrent Neural Network
 
