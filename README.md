@@ -180,7 +180,8 @@ This repository collected papers from influential conferences and journals (AI-o
  - Towards Memory- and Time-Efficient Backpropagation for Training Spiking Neural Networks
  - Multi-Level Firing with Spiking DS-ResNet: Enabling Better and Deeper Directly-Trained Spiking Neural Networks
  - Learnable Surrogate Gradient for Direct Training Spiking Neural Networks
- - Training Spiking Neural Networks with Accumulated Spiking Flow
+ - Training Spiking Neural Networks with Accumulated Spiking Flow 
+ - Advancing Training Efficiency of Deep Spiking Neural Networks through Rate-based Backpropagation (NIPS'2024)
 
 ### Hybrid Learning
 
