@@ -3,7 +3,7 @@
 This repository collected papers from influential conferences and journals (AI-oriented CCF-A from 2021 to 2024) related to brain-inspired systems. You can add more related papers by pulling the request. 😊
 
 **Suggested follow-up research sequence for future contributors**: 
-  - AI-related: AAAI->ICLR->IJCAI->MM->ICML->NIPS
+  - AI-related: AAAI,ICLR,CVPR,ICCV,IJCAI,MM,ICML,NIPS
   - Sys-related: TODO
 
 ## Contents
@@ -81,24 +81,24 @@ This repository collected papers from influential conferences and journals (AI-o
  - Spiking Transformer with Experts Mixture (NIPS'2024)
 
 ### Spiking Recurrent Neural Network
-
- - Enhancing Adaptive History Reserving by Spiking Convolutional Block Attention Module in Recurrent Neural Networks
- - Spiking Neural Networks with Improved Inherent Recurrence Dynamics for Sequential Learning
- - RSNN: Recurrent Spiking Neural Networks for Dynamic Spatial-Temporal Information Processing
+ 
+ - Spiking Neural Networks with Improved Inherent Recurrence Dynamics for Sequential Learning (AAAI'2022)
+ - Enhancing Adaptive History Reserving by Spiking Convolutional Block Attention Module in Recurrent Neural Networks (NIPS'2024)
+ - RSNN: Recurrent Spiking Neural Networks for Dynamic Spatial-Temporal Information Processing (MM'2024)
 
 ### Spiking Convolutional Neural Network
 
- - spiking convolutional neural networks for text classification
- - Spiking PointNet: Spiking Neural Networks for Point Clouds
- - Deep Residual Learning in Spiking Neural Networks
- - Deep Directly-Trained Spiking Neural Networks for Object Detection
- - Temporal-wise Attention Spiking Neural Networks for Event Streams Classification
- - Event-based Action Recognition Using Motion Information and Spiking Neural Networks
- - Energy-Efficient Models for High-Dimensional Spike Train Classification using Sparse Spiking Neural Networks
- - Point-to-Spike Residual Learning for Energy-Efﬁcient 3D Point Cloud Classiﬁcation
- - Gated Attention Coding for Training High-Performance and Efficient Spiking Neural Networks
- - Temporal-Coded Deep Spiking Neural Network with Easy Training and Robust Performance
- - Learning A Spiking Neural Network for Efficient Image Deraining
+ - Temporal-Coded Deep Spiking Neural Network with Easy Training and Robust Performance (AAAI'2021)
+ - Temporal-wise Attention Spiking Neural Networks for Event Streams Classification (ICCV'2021)
+ - Event-based Action Recognition Using Motion Information and Spiking Neural Networks (IJCAI'2021)
+ - Deep Residual Learning in Spiking Neural Networks (NIPS'2021)
+ - Energy-Efficient Models for High-Dimensional Spike Train Classification using Sparse Spiking Neural Networks (KDD'2021)
+ - Deep Directly-Trained Spiking Neural Networks for Object Detection (CVPR'2023)
+ - spiking convolutional neural networks for text classification (ICLR'2023)
+ - Point-to-Spike Residual Learning for Energy-Efﬁcient 3D Point Cloud Classiﬁcation (AAAI'2024)
+ - Gated Attention Coding for Training High-Performance and Efficient Spiking Neural Networks (AAAI'2024)
+ - Learning A Spiking Neural Network for Efficient Image Deraining (IJCAI'2024)
+ - Spiking PointNet: Spiking Neural Networks for Point Clouds (NIPS'2024)
  - Autonomous Driving with Spiking Neural Networks (NIPS'2024)
 
 ### Spike-driven MLP
