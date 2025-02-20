@@ -143,22 +143,22 @@ This repository collected papers from influential conferences and journals (AI-o
 
 ### Bio-inspired Neuron Optimization
 
- - Learning delays in spiking neural networks using dilated convolutions with learnable spacings
- - A progressive training framework for spiking neural networks with a learnable multi-hierarchical model
- - Addressing the speed-accuracy simulation trade-off for adaptive spiking neurons
- - Parallel Spiking Neurons with High Efficiency and Ability to Learn Long-term Dependencies
- - GLIF: A Uniﬁed Gated Leaky Integrate-and-Fire Neuron for Spiking Neural Networks
- - LTMD: Learning Improvement of Spiking Neural Networks with Learnable Thresholding Neurons and Moderate Dropout
- - Biologically Inspired Dynamic Thresholds for Spiking Neural Networks
- - Temporal-Coded Spiking Neural Networks with Dynamic Firing Threshold: Learning with Event-Driven Backpropagation
- - SSF: Accelerating Training of Spiking Neural Networks with Stabilized Spiking Flow
- - Incorporating Learnable Membrane Time Constant to Enhance Learning of Spiking Neural Networks
- - Ternary Spike: Learning Ternary Spikes for Spiking Neural Networks
- - TC-LIF: A Two-Compartment Spiking Neuron Model for Long-Term Sequential Modelling
- - Deep Spiking Neural Network with Neural Oscillation and Spike-Phase Information
- - High-Performance Temporal Reversible Spiking Neural Networks with $\mathcal{O}$(L) Training Memory and $\mathcal{O}$(1) Inference Cost
- - CLIF: Complementary Leaky Integrate-and-Fire Neuron for Spiking Neural Networks
- - Autaptic Synaptic Circuit Enhances Spatio-temporal Predictive Learning of Spiking Neural Networks
+ - Deep Spiking Neural Network with Neural Oscillation and Spike-Phase Information (AAAI'2021)
+ - Incorporating Learnable Membrane Time Constant to Enhance Learning of Spiking Neural Networks (ICCV'2021)
+ - GLIF: A Uniﬁed Gated Leaky Integrate-and-Fire Neuron for Spiking Neural Networks (NIPS'2022)
+ - LTMD: Learning Improvement of Spiking Neural Networks with Learnable Thresholding Neurons and Moderate Dropout (NIPS'2022)
+ - Biologically Inspired Dynamic Thresholds for Spiking Neural Networks (NIPS'2022)
+ - A progressive training framework for spiking neural networks with a learnable multi-hierarchical model (ICLR'2023)
+ - Addressing the speed-accuracy simulation trade-off for adaptive spiking neurons (NIPS'2023)
+ - Parallel Spiking Neurons with High Efficiency and Ability to Learn Long-term Dependencies (NIPS'2023)
+ - Temporal-Coded Spiking Neural Networks with Dynamic Firing Threshold: Learning with Event-Driven Backpropagation (ICCV'2023)
+ - SSF: Accelerating Training of Spiking Neural Networks with Stabilized Spiking Flow (ICCV'2023)
+ - Ternary Spike: Learning Ternary Spikes for Spiking Neural Networks (AAAI'2024)
+ - TC-LIF: A Two-Compartment Spiking Neuron Model for Long-Term Sequential Modelling (AAAI'2024)
+ - Learning delays in spiking neural networks using dilated convolutions with learnable spacings (ICLR'2024)
+ - High-Performance Temporal Reversible Spiking Neural Networks with $\mathcal{O}$(L) Training Memory and $\mathcal{O}$(1) Inference Cost (ICML'2024)
+ - CLIF: Complementary Leaky Integrate-and-Fire Neuron for Spiking Neural Networks (ICML'2024)
+ - Autaptic Synaptic Circuit Enhances Spatio-temporal Predictive Learning of Spiking Neural Networks (ICML'2024)
  - Rethinking the Membrane Dynamics and Optimization Objectives of Spiking Neural Networks (NIPS'2024)
 
 ### Bio-inspired Training Loss Optimization
