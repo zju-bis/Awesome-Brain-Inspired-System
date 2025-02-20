@@ -157,6 +157,7 @@ This repository collected papers from influential conferences and journals (AI-o
  - High-Performance Temporal Reversible Spiking Neural Networks with $\mathcal{O}$(L) Training Memory and $\mathcal{O}$(1) Inference Cost
  - CLIF: Complementary Leaky Integrate-and-Fire Neuron for Spiking Neural Networks
  - Autaptic Synaptic Circuit Enhances Spatio-temporal Predictive Learning of Spiking Neural Networks
+ - Rethinking the Membrane Dynamics and Optimization Objectives of Spiking Neural Networks (NIPS'2024)
 
 ### Bio-inspired Training Loss Optimization
 
