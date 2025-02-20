@@ -136,6 +136,7 @@ This repository collected papers from influential conferences and journals (AI-o
  - Strategy and Benchmark for Converting Deep Q-Networks to Event-Driven Spiking Neural Networks
  - Apprenticeship-Inspired Elegance: Synergistic Knowledge Distillation Empowers Spiking Neural Networks for Efficient Single-Eye Emotion Recognition
  - SpikeZIP-TF: Conversion is All You Need for Transformer-based SNN
+ - EnOF-SNN: Training Accurate Spiking Neural Networks via Enhancing the Output Feature (NIPS'2024)
 
 ### Bio-inspired Neuron Optimization
 
