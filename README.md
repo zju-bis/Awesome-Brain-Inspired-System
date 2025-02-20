@@ -170,6 +170,7 @@ This repository collected papers from influential conferences and journals (AI-o
  - Enhancing Training of Spiking Neural Network with Stochastic Latency
  - Enhancing Representation of Spiking Neural Networks via Similarity-Sensitive Contrastive Learning
  - An Efficient Knowledge Transfer Strategy for Spiking Neural Networks from Static to Event Domain
+ - Exact Gradients for Stochastic Spiking Neural Networks Driven by Rough Signals (NIPS'2024)
 
 ### Surrogate Gradient Optimization
 
@@ -203,6 +204,7 @@ This repository collected papers from influential conferences and journals (AI-o
  - HIRE-SNN: Harnessing the Inherent Robustness of Energy-Efficient Deep Spiking Neural Networks by Training with Crafted Input Noise
  - Robust Stable Spiking Neural Networks
  - RSC-SNN: Exploring the Trade-off Between Adversarial Robustness and Accuracy in Spiking Neural Networks via Randomized Smoothing Coding
+ - FEEL-SNN: Robust Spiking Neural Networks with Frequency Encoding and Evolutionary Leak Factor (NIPS'2024)
 
 ### Continual Learning with Spiking Neural Networks
  - A progressive training framework for spiking neural networks with a learnable multi-hierarchical model
