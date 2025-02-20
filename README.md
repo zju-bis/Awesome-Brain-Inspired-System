@@ -1,19 +1,19 @@
 # Awesome-Brain-Inspired-System
 
-This repository collected papers from influential conferences and journals (AI-oriented CCF-A from 2021 to 2024) related to brain-inspired systems. You can add more related papers by pulling the request. 😊
+This repository collected papers on brain-inspired systems published in influential conferences from 2021 to 2024. You can add more related papers by pulling the request. 😊
 
 **Suggested follow-up research sequence for future contributors**: 
   - AI-related: AAAI, ICLR, CVPR, ICCV, IJCAI, MM, ICML, NIPS
-  - Sys-related: TODO
-
-## Contents
-
-
-
+  - Sys-related: ASPLOS, MICRO, DAC, ...
 
 ## TODO List
 
  - [] 2025年暂缺
+ - [] 系统相关的会议文章21-24待完善
+
+## System-related Paper
+
+Coming Soon...
 
 ## AI-related Paper
 
