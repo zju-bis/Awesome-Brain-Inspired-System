@@ -78,6 +78,7 @@ This repository collected papers from influential conferences and journals (AI-o
  - SpGesture: Source-Free Domain-adaptive sEMG-based Gesture Recognition with Jaccard Attentive Spiking Neural Network (NIPS'2024)
  - Spike-based Neuromorphic Model for Sound Source Localization (NIPS'2024)
  - Spiking Token Mixer: An Event-Driven Friendly Former Structure for Spiking Neural Networks (NIPS'2024)
+ - Spiking Transformer with Experts Mixture (NIPS'2024)
 
 ### Spiking Recurrent Neural Network
 
@@ -192,6 +193,7 @@ This repository collected papers from influential conferences and journals (AI-o
  - Learnable Surrogate Gradient for Direct Training Spiking Neural Networks
  - Training Spiking Neural Networks with Accumulated Spiking Flow 
  - Advancing Training Efficiency of Deep Spiking Neural Networks through Rate-based Backpropagation (NIPS'2024)
+ - Take A Shortcut Back: Mitigating the Gradient Vanishing for Training Spiking Neural Networks (NIPS'2024)
 
 ### Hybrid Learning
 
