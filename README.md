@@ -41,38 +41,38 @@ This repository collected papers from influential conferences and journals (AI-o
 
 ### Network Architecture Search
 
- - AutoSNN: Towards Energy-Efficient Spiking Neural Networks
- - Emergence of Hierarchical Layers in a Single Sheet of Self-Organizing Spiking Neurons
- - Differentiable hierarchical and surrogate gradient search for spiking neural networks
- - ESL-SNNs: An Evolutionary Structure Learning Strategy for Spiking Neural Networks
+ - AutoSNN: Towards Energy-Efficient Spiking Neural Networks (ICML'2022)
+ - Emergence of Hierarchical Layers in a Single Sheet of Self-Organizing Spiking Neurons (NIPS'2022)
+ - Differentiable hierarchical and surrogate gradient search for spiking neural networks (NIPS'2022)
+ - ESL-SNNs: An Evolutionary Structure Learning Strategy for Spiking Neural Networks (AAAI'2023)
 
 ### Spiking Graph Neural Network
 
-  - A graph is worth 1-bit spikes: when graph contrastive learning meets spiking neural networks
-  - Exploiting Spiking Dynamics with Spatial-temporal Feature Normalization in Graph Learning
-  - Spiking Graph Convolutional Networks
-  - Dynamic Spiking Graph Neural Networks
-  - Dynamic Reactive Spiking Graph Neural Network
-  - Scaling Up Dynamic Graph Representation Learning via Spiking Neural Networks
-  - Temporal Spiking Neural Networks with Synaptic Delay for Graph Reasoning
+  
+  - Exploiting Spiking Dynamics with Spatial-temporal Feature Normalization in Graph Learning (IJCAI'2021)
+  - Spiking Graph Convolutional Networks (IJCAI'2022)
+  - Scaling Up Dynamic Graph Representation Learning via Spiking Neural Networks (AAAI'2023)
+  - A graph is worth 1-bit spikes: when graph contrastive learning meets spiking neural networks (ICLR'2024)
+  - Dynamic Spiking Graph Neural Networks (AAAI'2024)
+  - Dynamic Reactive Spiking Graph Neural Network (AAAI'2024)
+  - Temporal Spiking Neural Networks with Synaptic Delay for Graph Reasoning (ICML'2024)
   - Spiking Graph Neural Network on Riemannian Manifolds (NIPS'2024)
 
 ### Spiking Attention Mechanism
 
- - LMUFormer: Low complexity yet powerful spiking model with Legendre memory units
- - Spikformer: when spiking neural network meets transformer
- - Spike-driven Transformer
- - Masked Spiking Transformer
- - Spiking Transformers for Event-based Single Object Tracking
- - Spatial-Temporal Self-Attention for Asynchronous Spiking Neural Networks
- - SpikingBERT: Distilling BERT to Train Spiking Language Models Using Implicit Differentiation
- - Complex Dynamic Neurons Improved Spiking Transformer Network for Efficient Automatic Speech Recognition
- - One-step Spiking Transformer with a Linear Complexity
- - TIM: An Efficient Temporal Interaction Module for Spiking Transformer
+ - Spiking Transformers for Event-based Single Object Tracking (CVPR'2022)
+ - Spikformer: when spiking neural network meets transformer (ICLR'2023)
+ - Masked Spiking Transformer (CVPR'2023)
+ - Spatial-Temporal Self-Attention for Asynchronous Spiking Neural Networks (IJCAI'2023)
+ - Complex Dynamic Neurons Improved Spiking Transformer Network for Efficient Automatic Speech Recognition (AAAI'2023)
+ - LMUFormer: Low complexity yet powerful spiking model with Legendre memory units (ICLR'2024)
+ - Spike-driven Transformer (NIPS'2024)
+ - SpikingBERT: Distilling BERT to Train Spiking Language Models Using Implicit Differentiation (AAAI'2024)
+ - One-step Spiking Transformer with a Linear Complexity (IJCAI'2024)
+ - TIM: An Efficient Temporal Interaction Module for Spiking Transformer (IJCAI'2024)
  - Efficient and Effective Time-Series Forecasting with Spiking Neural Networks (ICML'2024)
- - SpikeLM: Towards General Spike-Driven Language Modeling via Elastic Bi-Spiking Mechanisms
- - PSSD-Transformer: Powerful Sparse Spike-Driven Transformer for Image Semantic Segmentation
- - Towards High-performance Spiking Transformers from ANN to SNN Conversion
+ - SpikeLM: Towards General Spike-Driven Language Modeling via Elastic Bi-Spiking Mechanisms (ICML'2024)
+ - PSSD-Transformer: Powerful Sparse Spike-Driven Transformer for Image Semantic Segmentation (MM'2024)
  - Advancing Spiking Neural Networks for Sequential Modeling with Central Pattern Generators (NIPS'2024)
  - QKFormer: Hierarchical Spiking Transformer using Q-K Attention (NIPS'2024)
  - SpGesture: Source-Free Domain-adaptive sEMG-based Gesture Recognition with Jaccard Attentive Spiking Neural Network (NIPS'2024)
@@ -142,6 +142,7 @@ This repository collected papers from influential conferences and journals (AI-o
  - Strategy and Benchmark for Converting Deep Q-Networks to Event-Driven Spiking Neural Networks
  - Apprenticeship-Inspired Elegance: Synergistic Knowledge Distillation Empowers Spiking Neural Networks for Efficient Single-Eye Emotion Recognition
  - SpikeZIP-TF: Conversion is All You Need for Transformer-based SNN
+ - Towards High-performance Spiking Transformers from ANN to SNN Conversion (MM'2024)
  - EnOF-SNN: Training Accurate Spiking Neural Networks via Enhancing the Output Feature (NIPS'2024)
  - SpikedAttention: Training-Free and Fully Spike-Driven Transformer-to-SNN Conversion with Winner-Oriented Spike Shift for Softmax Operation (NIPS'2024)
 
