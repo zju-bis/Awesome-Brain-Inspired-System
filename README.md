@@ -55,6 +55,7 @@ This repository collected papers from influential conferences and journals (AI-o
   - Dynamic Reactive Spiking Graph Neural Network
   - Scaling Up Dynamic Graph Representation Learning via Spiking Neural Networks
   - Temporal Spiking Neural Networks with Synaptic Delay for Graph Reasoning
+  - Spiking Graph Neural Network on Riemannian Manifolds (NIPS'2024)
 
 ### Spiking Attention Mechanism
 
