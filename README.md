@@ -59,9 +59,9 @@ This repository collected papers from influential conferences and journals (AI-o
  - Spikformer: when spiking neural network meets transformer (ICLR'2023)
  - Masked Spiking Transformer (CVPR'2023)
  - Spatial-Temporal Self-Attention for Asynchronous Spiking Neural Networks (IJCAI'2023)
+ -  - Spike-driven Transformer (NIPS'2023)
  - Complex Dynamic Neurons Improved Spiking Transformer Network for Efficient Automatic Speech Recognition (AAAI'2023)
  - LMUFormer: Low complexity yet powerful spiking model with Legendre memory units (ICLR'2024)
- - Spike-driven Transformer (NIPS'2024)
  - SpikingBERT: Distilling BERT to Train Spiking Language Models Using Implicit Differentiation (AAAI'2024)
  - One-step Spiking Transformer with a Linear Complexity (IJCAI'2024)
  - TIM: An Efficient Temporal Interaction Module for Spiking Transformer (IJCAI'2024)
@@ -78,7 +78,7 @@ This repository collected papers from influential conferences and journals (AI-o
 ### Spiking Recurrent Neural Network
  
  - Spiking Neural Networks with Improved Inherent Recurrence Dynamics for Sequential Learning (AAAI'2022)
- - Enhancing Adaptive History Reserving by Spiking Convolutional Block Attention Module in Recurrent Neural Networks (NIPS'2024)
+ - Enhancing Adaptive History Reserving by Spiking Convolutional Block Attention Module in Recurrent Neural Networks (NIPS'2023)
  - RSNN: Recurrent Spiking Neural Networks for Dynamic Spatial-Temporal Information Processing (MM'2024)
 
 ### Spiking Convolutional Neural Network
@@ -90,10 +90,10 @@ This repository collected papers from influential conferences and journals (AI-o
  - Energy-Efficient Models for High-Dimensional Spike Train Classification using Sparse Spiking Neural Networks (KDD'2021)
  - Deep Directly-Trained Spiking Neural Networks for Object Detection (CVPR'2023)
  - spiking convolutional neural networks for text classification (ICLR'2023)
+ -  - Spiking PointNet: Spiking Neural Networks for Point Clouds (NIPS'2023)
  - Point-to-Spike Residual Learning for Energy-Efﬁcient 3D Point Cloud Classiﬁcation (AAAI'2024)
  - Gated Attention Coding for Training High-Performance and Efficient Spiking Neural Networks (AAAI'2024)
  - Learning A Spiking Neural Network for Efficient Image Deraining (IJCAI'2024)
- - Spiking PointNet: Spiking Neural Networks for Point Clouds (NIPS'2024)
  - Autonomous Driving with Spiking Neural Networks (NIPS'2024)
 
 ### Spike-driven MLP
@@ -107,9 +107,9 @@ This repository collected papers from influential conferences and journals (AI-o
  - Recognizing High-Speed Moving Objects with Spike Camera (MM'2023)
  - Event-Enhanced Multi-Modal Spiking Neural Network for Dynamic Obstacle Avoidance (MM'2023)
  - A Low Latency Adaptive Coding Spike Framework for Deep Reinforcement Learning (IJCAI'2023)
+ -  - Unsupervised Optical Flow Estimation with Dynamic Timing Representation for Spike Camera (NIPS'2023)
  - Spiking NeRF: Representing the Real-World Geometry by a Discontinuous Representation (AAAI'2024)
  - spikepoint: an efficient point-based spiking neural network for event cameras'action recognition (ICLR'2024)
- - Unsupervised Optical Flow Estimation with Dynamic Timing Representation for Spike Camera (NIPS'2024)
 
 ### Lightweight Spiking Neural Networks
 
@@ -163,17 +163,17 @@ This repository collected papers from influential conferences and journals (AI-o
 
 ### Bio-inspired Training Loss Optimization
 
- - IM-Loss: Information Maximization Loss for Spiking Neural Networks
- - Exploring Loss Functions for Time-based Training Strategy in Spiking Neural Networks
- - Training Spiking Neural Networks with Event-driven Backpropagation
- - Backpropagated Neighborhood Aggregation for Accurate Training of Spiking Neural Networks
- - RMP-Loss: Regularizing Membrane Potential Distribution for Spiking Neural Networks
- - Temporal-Coded Spiking Neural Networks with Dynamic Firing Threshold: Learning with Event-Driven Backpropagation
- - RecDis-SNN: Rectifying Membrane Potential Distribution for Directly Training Spiking Neural Networks
- - Spike Count Maximization for Neuromorphic Vision Recognition
- - Enhancing Training of Spiking Neural Network with Stochastic Latency
- - Enhancing Representation of Spiking Neural Networks via Similarity-Sensitive Contrastive Learning
- - An Efficient Knowledge Transfer Strategy for Spiking Neural Networks from Static to Event Domain
+ - Backpropagated Neighborhood Aggregation for Accurate Training of Spiking Neural Networks (ICML'2021)
+ - IM-Loss: Information Maximization Loss for Spiking Neural Networks (NIPS'2022)
+ - Training Spiking Neural Networks with Event-driven Backpropagation (NIPS'2022)
+ - RecDis-SNN: Rectifying Membrane Potential Distribution for Directly Training Spiking Neural Networks (CVPR'2022)
+ - RMP-Loss: Regularizing Membrane Potential Distribution for Spiking Neural Networks (ICCV'2023)
+ - Temporal-Coded Spiking Neural Networks with Dynamic Firing Threshold: Learning with Event-Driven Backpropagation (ICCV'2023)
+ - Spike Count Maximization for Neuromorphic Vision Recognition (IJCAI'2023)
+ - Exploring Loss Functions for Time-based Training Strategy in Spiking Neural Networks (NIPS'2023)
+ - Enhancing Training of Spiking Neural Network with Stochastic Latency (AAAI'2024)
+ - Enhancing Representation of Spiking Neural Networks via Similarity-Sensitive Contrastive Learning (AAAI'2024)
+ - An Efficient Knowledge Transfer Strategy for Spiking Neural Networks from Static to Event Domain (AAAI'2024)
  - Exact Gradients for Stochastic Spiking Neural Networks Driven by Rough Signals (NIPS'2024)
 
 ### Surrogate Gradient Optimization
