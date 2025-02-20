@@ -73,6 +73,7 @@ This repository collected papers from influential conferences and journals (AI-o
  - PSSD-Transformer: Powerful Sparse Spike-Driven Transformer for Image Semantic Segmentation
  - Towards High-performance Spiking Transformers from ANN to SNN Conversion
  - Advancing Spiking Neural Networks for Sequential Modeling with Central Pattern Generators (NIPS'2024)
+ - QKFormer: Hierarchical Spiking Transformer using Q-K Attention (NIPS'2024)
 
 ### Spiking Recurrent Neural Network
 
