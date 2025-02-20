@@ -199,6 +199,7 @@ This repository collected papers from influential conferences and journals (AI-o
  - SEENN: Towards Temporal Spiking Early-Exit Neural Networks
  - EICIL: Joint Excitatory Inhibitory Cycle Iteration Learning for Deep Spiking Neural Networks
  - Towards Low-latency Event-based Visual Recognition with Hybrid Step-wise Distillation Spiking Neural Networks
+ - piking Neural Network as Adaptive Event Stream Slicer (NIPS'2024)
 
 ### Adversarial Spiking Neural Networks
 
