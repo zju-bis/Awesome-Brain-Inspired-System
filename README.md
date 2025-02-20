@@ -3,36 +3,37 @@
 This repository collected papers from influential conferences and journals (AI-oriented CCF-A from 2021 to 2024) related to brain-inspired systems. You can add more related papers by pulling the request. 😊
 
 **Suggested follow-up research sequence for future contributors**: 
-  - AI-related: AAAI,ICLR,CVPR,ICCV,IJCAI,MM,ICML,NIPS
+  - AI-related: AAAI, ICLR, CVPR, ICCV, IJCAI, MM, ICML, NIPS
   - Sys-related: TODO
 
 ## Contents
 
- - [Papers](#papers)
-   - [Network Architecture Search](#network-architecture-search)
-   - [Spiking Graph Neural Network](#Spiking-Graph-Neural-Network)
-   - [Spiking Attention Mechanism](#Spiking-Attention-Mechanism)
-   - [Spiking Recurrent Neural Network](#Spiking-Recurrent-Neural-Network)
-   - [Spiking Convolutional Neural Network](#Spiking-Convolutional-Neural-Network)
-   - [Spike-driven MLP](#Spike-driven-MLP)
-   - [Lightweight Spiking Neural Networks](#Lightweight-Spiking-Neural-Networks)
-   - [ANN2SNN](#ann2snn)
-   - [Bio-inspired Neuron Optimization](#Bio-inspired-Neuron-Optimization)
-   - [Bio-inspired Training Loss Optimization](#Bio-inspired-Training-Loss-Optimization)
-   - [Surrogate Gradient Optimization](#Surrogate-Gradient-Optimization)
-   - [Hybrid Learning](#Hybrid-Learning)
-   - [Adversarial Spiking Neural Networks](#Adversarial-Spiking-Neural-Networks)
-   - [Continual Learning with Spiking Neural Networks](#Continual-Learning-with-Spiking-Neural-Networks)
-   - [Online Learning with Spiking Neural Networks](#Online-Learning-with-Spiking-Neural-Networks)
-   - [Inference Acceleration](#Inference-Acceleration)
-   - [Solver with Spiking Neural Networks](#Solver-with-Spiking-Neural-Networks)
+
 
 
 ## TODO List
 
  - [] 2025年暂缺
 
-## Papers
+## AI-related Paper
+
+ - [Network Architecture Search](#network-architecture-search)
+ - [Spiking Graph Neural Network](#Spiking-Graph-Neural-Network)
+ - [Spiking Attention Mechanism](#Spiking-Attention-Mechanism)
+ - [Spiking Recurrent Neural Network](#Spiking-Recurrent-Neural-Network)
+ - [Spiking Convolutional Neural Network](#Spiking-Convolutional-Neural-Network)
+ - [Spike-driven MLP](#Spike-driven-MLP)
+ - [Lightweight Spiking Neural Networks](#Lightweight-Spiking-Neural-Networks)
+ - [ANN2SNN](#ann2snn)
+ - [Bio-inspired Neuron Optimization](#Bio-inspired-Neuron-Optimization)
+ - [Bio-inspired Training Loss Optimization](#Bio-inspired-Training-Loss-Optimization)
+ - [Surrogate Gradient Optimization](#Surrogate-Gradient-Optimization)
+ - [Hybrid Learning](#Hybrid-Learning)
+ - [Adversarial Spiking Neural Networks](#Adversarial-Spiking-Neural-Networks)
+ - [Continual Learning with Spiking Neural Networks](#Continual-Learning-with-Spiking-Neural-Networks)
+ - [Online Learning with Spiking Neural Networks](#Online-Learning-with-Spiking-Neural-Networks)
+ - [Inference Acceleration](#Inference-Acceleration)
+ - [Solver with Spiking Neural Networks](#Solver-with-Spiking-Neural-Networks)
 
 ### Network Architecture Search
 
