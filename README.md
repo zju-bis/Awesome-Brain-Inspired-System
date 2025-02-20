@@ -25,7 +25,7 @@ This repository collected papers from influential conferences and journals (AI-o
    - [Continual Learning with Spiking Neural Networks](#Continual-Learning-with-Spiking-Neural-Networks)
    - [Online Learning with Spiking Neural Networks](#Online-Learning-with-Spiking-Neural-Networks)
    - [Inference Acceleration](#Inference-Acceleration)
-
+   - [Solver with Spiking Neural Networks](#Solver-with-Spiking-Neural-Networks)
 
 
 ## TODO List
@@ -228,3 +228,5 @@ This repository collected papers from influential conferences and journals (AI-o
  - Shrinking Your TimeStep: Towards Low-Latency Neuromorphic Object Recognition with Spiking Neural Networks
  - Towards Efficient Spiking Transformer: a Token Sparsification Framework for Training and Inference Acceleration
 
+### Solver with Spiking Neural Networks
+  - Slack-Free Spiking Neural Network Formulation for Hypergraph Minimum Vertex Cover (NIPS'2024)
