@@ -75,6 +75,7 @@ This repository collected papers from influential conferences and journals (AI-o
  - Advancing Spiking Neural Networks for Sequential Modeling with Central Pattern Generators (NIPS'2024)
  - QKFormer: Hierarchical Spiking Transformer using Q-K Attention (NIPS'2024)
  - SpGesture: Source-Free Domain-adaptive sEMG-based Gesture Recognition with Jaccard Attentive Spiking Neural Network (NIPS'2024)
+ - Spike-based Neuromorphic Model for Sound Source Localization (NIPS'2024)
 
 ### Spiking Recurrent Neural Network
 
