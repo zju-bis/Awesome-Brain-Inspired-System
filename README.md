@@ -30,12 +30,7 @@ This repository collected papers from influential conferences and journals (AI-o
 
 ## TODO List
 
- - [] Missing AAAI 2025
- - [] Missing ICLR 2025
- - [] Missing IJCAI 2025
- - [] Missing MM 2025
- - [] Missing ICML 2025
- - [] Missing NIPS 2025
+ - [] 2025年暂缺
 
 ## Papers
 
@@ -103,18 +98,18 @@ This repository collected papers from influential conferences and journals (AI-o
 
 ### Spike-driven MLP
 
- - Learning to Time-Decode in Spiking Neural Networks Through the Information Bottleneck
- - Recognizing High-Speed Moving Objects with Spike Camera
- - Event-Enhanced Multi-Modal Spiking Neural Network for Dynamic Obstacle Avoidance
- - Brain-inspired Multilayer Perceptron with Spiking Neurons
- - Event-based Video Reconstruction via Potential-assisted Spiking Neural Network
- - A Low Latency Adaptive Coding Spike Framework for Deep Reinforcement Learning
- - Spiking NeRF: Representing the Real-World Geometry by a Discontinuous Representation
- - spikepoint: an efficient point-based spiking neural network for event cameras'action recognition
- - Unsupervised Optical Flow Estimation with Dynamic Timing Representation for Spike Camera
- - Learning Optical Flow from Continuous Spike Streams
- - Multi-Sacle Dynamic Coding Improved Spiking Actor Network for Reinforcement Learning
- - Fully Spiking Variational Autoencoder
+ - Learning to Time-Decode in Spiking Neural Networks Through the Information Bottleneck (NIPS'2021)
+ - Brain-inspired Multilayer Perceptron with Spiking Neurons (CVPR'2022)
+ - Event-based Video Reconstruction via Potential-assisted Spiking Neural Network (CVPR'2022)
+ - Learning Optical Flow from Continuous Spike Streams (NIPS'2022)
+ - Multi-Sacle Dynamic Coding Improved Spiking Actor Network for Reinforcement Learning (AAAI'2022)
+ - Fully Spiking Variational Autoencoder (AAAI'2022)
+ - Recognizing High-Speed Moving Objects with Spike Camera (MM'2023)
+ - Event-Enhanced Multi-Modal Spiking Neural Network for Dynamic Obstacle Avoidance (MM'2023)
+ - A Low Latency Adaptive Coding Spike Framework for Deep Reinforcement Learning (IJCAI'2023)
+ - Spiking NeRF: Representing the Real-World Geometry by a Discontinuous Representation (AAAI'2024)
+ - spikepoint: an efficient point-based spiking neural network for event cameras'action recognition (ICLR'2024)
+ - Unsupervised Optical Flow Estimation with Dynamic Timing Representation for Spike Camera (NIPS'2024)
 
 ### Lightweight Spiking Neural Networks
 
