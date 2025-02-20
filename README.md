@@ -113,30 +113,30 @@ This repository collected papers from influential conferences and journals (AI-o
 
 ### Lightweight Spiking Neural Networks
 
- - State Transition of Dendritic Spines Improves Learning of Sparse Spiking Neural Networks
- - towards energy efficient spiking neural networks: an unstructured pruning framework
- - sparse spiking neural network: exploring heterogeneity in time scales for pruning recurrent SNN
- - LitE-SNN: Designing Lightweight and Efficient Spiking Neural Network through Spatial-Temporal Compressive Network Search and Joint Optimization
- - Towards Efficient Deep Spiking Neural Networks Construction with Spiking Activity based Pruning
- - Reversing Structural Pattern Learning with Biologically Inspired Knowledge Distillation for Spiking Neural Networks
- - Q-SNNs: Quantized Spiking Neural Networks
+ - State Transition of Dendritic Spines Improves Learning of Sparse Spiking Neural Networks (ICML'2022)
+ - towards energy efficient spiking neural networks: an unstructured pruning framework (ICLR'2024)
+ - sparse spiking neural network: exploring heterogeneity in time scales for pruning recurrent SNN (ICLR'2024)
+ - LitE-SNN: Designing Lightweight and Efficient Spiking Neural Network through Spatial-Temporal Compressive Network Search and Joint Optimization (IJCAI'2024)
+ - Towards Efficient Deep Spiking Neural Networks Construction with Spiking Activity based Pruning (ICML'2024)
+ - Reversing Structural Pattern Learning with Biologically Inspired Knowledge Distillation for Spiking Neural Networks (MM'2024)
+ - Q-SNNs: Quantized Spiking Neural Networks (MM'2024)
 
 ### ANN2SNN
 
- - A Free Lunch From ANN: Towards Efficient, Accurate Spiking Neural Networks Calibration
- - bridging the gap between ANNs and SNNs by calibrating offset spikes
- - optimal ANN-SNN conversion for high accuracy and ultra-low-latency spiking neural networks
- - optimal conversion of conventional artificial neural networks to spiking neural networks
- - Efficient Converted Spiking Neural Network for 3D and 2D Classification
- - Constructing Deep Spiking Neural Networks from Artificial Neural Networks with Knowledge Distillation
- - Optimal ANN-SNN Conversion for Fast and Accurate Inference in Deep Spiking Neural Networks
- - Efficient and Accurate Conversion of Spiking Neural Network with Burst Spikes
- - SpikeConverter: An Efficient Conversion Framework Zipping the Gap between Artificial Neural Networks and Spiking Neural Networks
- - Optimized Potential Initialization for Low-Latency Spiking Neural Networks
- - Near Lossless Transfer Learning for Spiking Neural Networks
- - Strategy and Benchmark for Converting Deep Q-Networks to Event-Driven Spiking Neural Networks
- - Apprenticeship-Inspired Elegance: Synergistic Knowledge Distillation Empowers Spiking Neural Networks for Efficient Single-Eye Emotion Recognition
- - SpikeZIP-TF: Conversion is All You Need for Transformer-based SNN
+ - Optimal ANN-SNN Conversion for Fast and Accurate Inference in Deep Spiking Neural Networks (IJCAI'2021)
+ - Near Lossless Transfer Learning for Spiking Neural Networks (AAAI'2021)
+ - Strategy and Benchmark for Converting Deep Q-Networks to Event-Driven Spiking Neural Networks (AAAI'2021)
+ - optimal conversion of conventional artificial neural networks to spiking neural networks (ICLR'2021)
+ - A Free Lunch From ANN: Towards Efficient, Accurate Spiking Neural Networks Calibration (ICML'2021)
+ - Efficient and Accurate Conversion of Spiking Neural Network with Burst Spikes (IJCAI'2022)
+ - SpikeConverter: An Efficient Conversion Framework Zipping the Gap between Artificial Neural Networks and Spiking Neural Networks (AAAI'2022)
+ - Optimized Potential Initialization for Low-Latency Spiking Neural Networks (AAAI'2022)
+ - optimal ANN-SNN conversion for high accuracy and ultra-low-latency spiking neural networks (ICLR'2022)
+ - bridging the gap between ANNs and SNNs by calibrating offset spikes (ICLR'2023)
+ - Efficient Converted Spiking Neural Network for 3D and 2D Classification (CVPR'2023)
+ - Constructing Deep Spiking Neural Networks from Artificial Neural Networks with Knowledge Distillation (CVPR'2023)
+ - Apprenticeship-Inspired Elegance: Synergistic Knowledge Distillation Empowers Spiking Neural Networks for Efficient Single-Eye Emotion Recognition (IJCAI'2024)
+ - SpikeZIP-TF: Conversion is All You Need for Transformer-based SNN (ICML'2024)
  - Towards High-performance Spiking Transformers from ANN to SNN Conversion (MM'2024)
  - EnOF-SNN: Training Accurate Spiking Neural Networks via Enhancing the Output Feature (NIPS'2024)
  - SpikedAttention: Training-Free and Fully Spike-Driven Transformer-to-SNN Conversion with Winner-Oriented Spike Shift for Softmax Operation (NIPS'2024)
