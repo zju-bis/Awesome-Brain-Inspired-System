@@ -68,10 +68,11 @@ This repository collected papers from influential conferences and journals (AI-o
  - Complex Dynamic Neurons Improved Spiking Transformer Network for Efficient Automatic Speech Recognition
  - One-step Spiking Transformer with a Linear Complexity
  - TIM: An Efficient Temporal Interaction Module for Spiking Transformer
- - Efficient and Effective Time-Series Forecasting with Spiking Neural Networks
+ - Efficient and Effective Time-Series Forecasting with Spiking Neural Networks (ICML'2024)
  - SpikeLM: Towards General Spike-Driven Language Modeling via Elastic Bi-Spiking Mechanisms
  - PSSD-Transformer: Powerful Sparse Spike-Driven Transformer for Image Semantic Segmentation
  - Towards High-performance Spiking Transformers from ANN to SNN Conversion
+ - Advancing Spiking Neural Networks for Sequential Modeling with Central Pattern Generators (NIPS'2024)
 
 ### Spiking Recurrent Neural Network
 
