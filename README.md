@@ -93,6 +93,7 @@ This repository collected papers from influential conferences and journals (AI-o
  - Gated Attention Coding for Training High-Performance and Efficient Spiking Neural Networks
  - Temporal-Coded Deep Spiking Neural Network with Easy Training and Robust Performance
  - Learning A Spiking Neural Network for Efficient Image Deraining
+ - Autonomous Driving with Spiking Neural Networks (NIPS'2024)
 
 ### Spike-driven MLP
 
