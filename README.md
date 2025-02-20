@@ -214,6 +214,7 @@ This repository collected papers from influential conferences and journals (AI-o
 
  - Online stabilization of spiking neural networks
  - NDOT: Neuronal Dynamics-based Online Training for Spiking Neural Networks
+ - Continuous Spatiotemporal Events Decoupling through Spike-based Bayesian Computation (NIPS'2024)
 
 ### Inference Acceleration
  - EC-SNN: Splitting Deep Spiking Neural Networks for Edge Devices
