@@ -58,7 +58,7 @@ Coming Soon...
 
  - Spiking Transformers for Event-based Single Object Tracking (CVPR'2022)
  - Spikformer: when spiking neural network meets transformer (ICLR'2023)
- - Masked Spiking Transformer (CVPR'2023)
+ - Masked Spiking Transformer (ICCV'2023)
  - Spatial-Temporal Self-Attention for Asynchronous Spiking Neural Networks (IJCAI'2023)
  - Spike-driven Transformer (NIPS'2023)
  - Complex Dynamic Neurons Improved Spiking Transformer Network for Efficient Automatic Speech Recognition (AAAI'2023)
