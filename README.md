@@ -81,6 +81,7 @@ Coming Soon...
  
  - Spiking Neural Networks with Improved Inherent Recurrence Dynamics for Sequential Learning (AAAI'2022)
  - Enhancing Adaptive History Reserving by Spiking Convolutional Block Attention Module in Recurrent Neural Networks (NIPS'2023)
+ - Evolving Connectivity for Recurrent Spiking Neural Networks (NIPS'2023)
  - RSNN: Recurrent Spiking Neural Networks for Dynamic Spatial-Temporal Information Processing (MM'2024)
 
 ### Spiking Convolutional Neural Network
