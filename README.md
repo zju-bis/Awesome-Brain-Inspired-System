@@ -207,6 +207,7 @@ Coming Soon...
 ### Adversarial Spiking Neural Networks
 
  - HIRE-SNN: Harnessing the Inherent Robustness of Energy-Efficient Deep Spiking Neural Networks by Training with Crafted Input Noise (ICCV'2021)
+ - PrivateSNN: Fully Privacy-Preserving Spiking Neural Networks [AAAI'2022]
  - SNN-RAT: Robustness-enhanced Spiking Neural Network through Regularized Adversarial Training (NIPS'2022)
  - Toward Robust Spiking Neural Network Against Adversarial Perturbation (NIPS'2022)
  - Threaten Spiking Neural Networks Through Combining Rate and Temporal Information (ICLR'2023)
