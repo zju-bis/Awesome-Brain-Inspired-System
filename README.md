@@ -98,6 +98,7 @@ Coming Soon...
  - Gated Attention Coding for Training High-Performance and Efficient Spiking Neural Networks (AAAI'2024)
  - Learning A Spiking Neural Network for Efficient Image Deraining (IJCAI'2024)
  - Autonomous Driving with Spiking Neural Networks (NIPS'2024)
+ - SFOD: Spiking Fusion Object Detector (CVPR'2024)
 
 ### Spike-driven MLP
 
