@@ -63,6 +63,7 @@ Coming Soon...
  - Spike-driven Transformer (NIPS'2023)
  - Complex Dynamic Neurons Improved Spiking Transformer Network for Efficient Automatic Speech Recognition (AAAI'2023)
  - LMUFormer: Low complexity yet powerful spiking model with Legendre memory units (ICLR'2024)
+ - Spike-driven Transformer V2: Meta Spiking Neural Network Architecture Inspiring the Design of Next-generation Neuromorphic Chips (ICLR'2024)
  - SpikingBERT: Distilling BERT to Train Spiking Language Models Using Implicit Differentiation (AAAI'2024)
  - One-step Spiking Transformer with a Linear Complexity (IJCAI'2024)
  - TIM: An Efficient Temporal Interaction Module for Spiking Transformer (IJCAI'2024)
