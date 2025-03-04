@@ -37,6 +37,7 @@ Coming Soon...
 
 ### Network Architecture Search
 
+ - Neural Architecture Search for Spiking Neural Networks (ECCV'2022)
  - AutoSNN: Towards Energy-Efficient Spiking Neural Networks (ICML'2022)
  - Emergence of Hierarchical Layers in a Single Sheet of Self-Organizing Spiking Neurons (NIPS'2022)
  - Differentiable hierarchical and surrogate gradient search for spiking neural networks (NIPS'2022)
@@ -44,7 +45,6 @@ Coming Soon...
 
 ### Spiking Graph Neural Network
 
-  
   - Exploiting Spiking Dynamics with Spatial-temporal Feature Normalization in Graph Learning (IJCAI'2021)
   - Spiking Graph Convolutional Networks (IJCAI'2022)
   - Scaling Up Dynamic Graph Representation Learning via Spiking Neural Networks (AAAI'2023)
@@ -57,6 +57,7 @@ Coming Soon...
 ### Spiking Attention Mechanism
 
  - Spiking Transformers for Event-based Single Object Tracking (CVPR'2022)
+ - Spike Transformer: Monocular Depth Estimation for Spiking Camera (ECCV'2022)
  - Spikformer: when spiking neural network meets transformer (ICLR'2023)
  - Masked Spiking Transformer (ICCV'2023)
  - Spatial-Temporal Self-Attention for Asynchronous Spiking Neural Networks (IJCAI'2023)
@@ -65,6 +66,7 @@ Coming Soon...
  - LMUFormer: Low complexity yet powerful spiking model with Legendre memory units (ICLR'2024)
  - Spike-driven Transformer V2: Meta Spiking Neural Network Architecture Inspiring the Design of Next-generation Neuromorphic Chips (ICLR'2024)
  - SpikingBERT: Distilling BERT to Train Spiking Language Models Using Implicit Differentiation (AAAI'2024)
+ - Spiking Wavelet Transformer (ECCV'2024)
  - One-step Spiking Transformer with a Linear Complexity (IJCAI'2024)
  - TIM: An Efficient Temporal Interaction Module for Spiking Transformer (IJCAI'2024)
  - Efficient and Effective Time-Series Forecasting with Spiking Neural Networks (ICML'2024)
@@ -83,6 +85,7 @@ Coming Soon...
  - Spiking Neural Networks with Improved Inherent Recurrence Dynamics for Sequential Learning (AAAI'2022)
  - Enhancing Adaptive History Reserving by Spiking Convolutional Block Attention Module in Recurrent Neural Networks (NIPS'2023)
  - Evolving Connectivity for Recurrent Spiking Neural Networks (NIPS'2023)
+ - EAS-SNN: End-to-End Adaptive Sampling and Representation for Event-based Detection with Recurrent Spiking Neural Networks (ECCV'2024)
  - RSNN: Recurrent Spiking Neural Networks for Dynamic Spatial-Temporal Information Processing (MM'2024)
 
 ### Spiking Convolutional Neural Network
@@ -97,6 +100,7 @@ Coming Soon...
  - Spiking PointNet: Spiking Neural Networks for Point Clouds (NIPS'2023)
  - Point-to-Spike Residual Learning for Energy-Efﬁcient 3D Point Cloud Classiﬁcation (AAAI'2024)
  - Gated Attention Coding for Training High-Performance and Efficient Spiking Neural Networks (AAAI'2024)
+ - Integer-Valued Training and Spike-Driven Inference Spiking Neural Network for High-performance and Energy-efficient Object Detection (ECCV'2024)
  - Learning A Spiking Neural Network for Efficient Image Deraining (IJCAI'2024)
  - Autonomous Driving with Spiking Neural Networks (NIPS'2024)
  - SFOD: Spiking Fusion Object Detector (CVPR'2024)
@@ -119,6 +123,8 @@ Coming Soon...
 
 ### Lightweight Spiking Neural Networks
 
+ - Towards Ultra Low Latency Spiking Neural Networks for Vision and Sequential Tasks Using Temporal Pruning (ECCV'2022)
+ - Exploring Lottery Ticket Hypothesis in Spiking Neural Networks (ECCV'2022)
  - State Transition of Dendritic Spines Improves Learning of Sparse Spiking Neural Networks (ICML'2022)
  - towards energy efficient spiking neural networks: an unstructured pruning framework (ICLR'2024)
  - sparse spiking neural network: exploring heterogeneity in time scales for pruning recurrent SNN (ICLR'2024)
@@ -139,8 +145,9 @@ Coming Soon...
  - Optimized Potential Initialization for Low-Latency Spiking Neural Networks (AAAI'2022)
  - optimal ANN-SNN conversion for high accuracy and ultra-low-latency spiking neural networks (ICLR'2022)
  - bridging the gap between ANNs and SNNs by calibrating offset spikes (ICLR'2023)
- - Efficient Converted Spiking Neural Network for 3D and 2D Classification (CVPR'2023)
- - Constructing Deep Spiking Neural Networks from Artificial Neural Networks with Knowledge Distillation (CVPR'2023)
+ - Efficient Converted Spiking Neural Network for 3D and 2D Classification (ICCV'2023)
+ - Constructing Deep Spiking Neural Networks from Artificial Neural Networks with Knowledge Distillation (ICCV'2023)
+ - BKDSNN: Enhancing the Performance of Learning-based Spiking Neural Networks Training with Blurred Knowledge Distillation (ECCV'2024)
  - Apprenticeship-Inspired Elegance: Synergistic Knowledge Distillation Empowers Spiking Neural Networks for Efficient Single-Eye Emotion Recognition (IJCAI'2024)
  - SpikeZIP-TF: Conversion is All You Need for Transformer-based SNN (ICML'2024)
  - Towards High-performance Spiking Transformers from ANN to SNN Conversion (MM'2024)
@@ -151,6 +158,7 @@ Coming Soon...
 
  - Deep Spiking Neural Network with Neural Oscillation and Spike-Phase Information (AAAI'2021)
  - Incorporating Learnable Membrane Time Constant to Enhance Learning of Spiking Neural Networks (ICCV'2021)
+ - Reducing Information Loss for Spiking Neural Networks (ECCV'2022)
  - GLIF: A Uniﬁed Gated Leaky Integrate-and-Fire Neuron for Spiking Neural Networks (NIPS'2022)
  - LTMD: Learning Improvement of Spiking Neural Networks with Learnable Thresholding Neurons and Moderate Dropout (NIPS'2022)
  - Biologically Inspired Dynamic Thresholds for Spiking Neural Networks (NIPS'2022)
@@ -161,6 +169,7 @@ Coming Soon...
  - SSF: Accelerating Training of Spiking Neural Networks with Stabilized Spiking Flow (ICCV'2023)
  - Ternary Spike: Learning Ternary Spikes for Spiking Neural Networks (AAAI'2024)
  - TC-LIF: A Two-Compartment Spiking Neuron Model for Long-Term Sequential Modelling (AAAI'2024)
+ - Asynchronous Bioplausible Neuron for Spiking Neural Networks for Event-Based Vision (ECCV'2024)
  - Learning delays in spiking neural networks using dilated convolutions with learnable spacings (ICLR'2024)
  - High-Performance Temporal Reversible Spiking Neural Networks with $\mathcal{O}$(L) Training Memory and $\mathcal{O}$(1) Inference Cost (ICML'2024)
  - CLIF: Complementary Leaky Integrate-and-Fire Neuron for Spiking Neural Networks (ICML'2024)
@@ -177,7 +186,6 @@ Coming Soon...
  - Temporal-Coded Spiking Neural Networks with Dynamic Firing Threshold: Learning with Event-Driven Backpropagation (ICCV'2023)
  - Spike Count Maximization for Neuromorphic Vision Recognition (IJCAI'2023)
  - Exploring Loss Functions for Time-based Training Strategy in Spiking Neural Networks (NIPS'2023)
- - Enhancing Training of Spiking Neural Network with Stochastic Latency (AAAI'2024)
  - Enhancing Representation of Spiking Neural Networks via Similarity-Sensitive Contrastive Learning (AAAI'2024)
  - An Efficient Knowledge Transfer Strategy for Spiking Neural Networks from Static to Event Domain (AAAI'2024)
  - Exact Gradients for Stochastic Spiking Neural Networks Driven by Rough Signals (NIPS'2024)
@@ -215,6 +223,7 @@ Coming Soon...
  - Toward Robust Spiking Neural Network Against Adversarial Perturbation (NIPS'2022)
  - Threaten Spiking Neural Networks Through Combining Rate and Temporal Information (ICLR'2023)
  - Enhancing the Robustness of Spiking Neural Networks with Stochastic Gating Mechanisms (AAAI'2024)
+ - Exploring Vulnerabilities in Spiking Neural Networks: Direct Adversarial Attacks on Raw Event Data (ECCV'2024)
  - Certified adversarial robustness for rate-encoded spiking neural networks (ICLR'2024)
  - Robust Stable Spiking Neural Networks (ICML'2024)
  - RSC-SNN: Exploring the Trade-off Between Adversarial Robustness and Accuracy in Spiking Neural Networks via Randomized Smoothing Coding (MM'2024)
@@ -235,11 +244,13 @@ Coming Soon...
  - NDOT: Neuronal Dynamics-based Online Training for Spiking Neural Networks (ICML'2024)
  - Continuous Spatiotemporal Events Decoupling through Spike-based Bayesian Computation (NIPS'2024)
 
-### Inference Acceleration
+### Acceleration
 
  - DCT-SNN: Using DCT to Distribute Spatial Information over Time for Low-Latency Spiking Neural Networks (ICCV'2021)
  - Unleashing the Potential of Spiking Neural Networks with Dynamic Confidence (ICCV'2023)
  - Shrinking Your TimeStep: Towards Low-Latency Neuromorphic Object Recognition with Spiking Neural Networks (AAAI'2024)
+ - Enhancing Training of Spiking Neural Network with Stochastic Latency (AAAI'2024)
+ - Efficient Training of Spiking Neural Networks with Multi-Parallel Implicit Stream Architecture (ECCV'2024)
  - Towards Efficient Spiking Transformer: a Token Sparsification Framework for Training and Inference Acceleration (ICML'2024)
  - EC-SNN: Splitting Deep Spiking Neural Networks for Edge Devices (IJCAI'2024)
 
