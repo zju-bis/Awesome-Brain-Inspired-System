@@ -81,7 +81,8 @@ Coming Soon...
  - SpikingResformer: Bridging ResNet and Vision Transformer in Spiking Neural Networks (CVPR'2024)
  - Quantized Spike-driven Transformer (ICLR'2025)
  - SpikeGPT: Generative Pre-trained Language Model with Spiking Neural Networks (ICLR'2025)
- - 
+ - Spiking Vision Transformer with Saccadic Attention (ICLR'2025)
+ - Spikellm: Scaling up spiking neural network to large language models via saliency-based spiking (ICLR'2025)
 
 ### Spiking Recurrent Neural Network
  
@@ -136,6 +137,7 @@ Coming Soon...
  - Reversing Structural Pattern Learning with Biologically Inspired Knowledge Distillation for Spiking Neural Networks (MM'2024)
  - Q-SNNs: Quantized Spiking Neural Networks (MM'2024)
  - Improving the Sparse Structure Learning of Spiking Neural Networks from the View of Compression Efficiency (ICLR'2025)
+ - QP-SNN: Quantized and Pruned Spiking Neural Networks (ICLR'2025)
 
 ### ANN2SNN
 
@@ -180,6 +182,8 @@ Coming Soon...
  - Autaptic Synaptic Circuit Enhances Spatio-temporal Predictive Learning of Spiking Neural Networks (ICML'2024)
  - Rethinking the Membrane Dynamics and Optimization Objectives of Spiking Neural Networks (NIPS'2024)
  - TS-LIF: A Temporal Segment Spiking Neuron Network For Time Series Forecasting (ICLR'2025)
+ - Rethinking Spiking Neural Networks from an Ensemble Learning Perspective (ICLR'2025)
+ - P-SpikeSSM: Harnessing Probabilistic Spiking State Space Models for Long-Range Dependency Tasks (ICLR'2025)
 
 ### Bio-inspired Training Loss Optimization
 
@@ -209,6 +213,7 @@ Coming Soon...
  - Learnable Surrogate Gradient for Direct Training Spiking Neural Networks (IJCAI'2023)
  - Advancing Training Efficiency of Deep Spiking Neural Networks through Rate-based Backpropagation (NIPS'2024)
  - Take A Shortcut Back: Mitigating the Gradient Vanishing for Training Spiking Neural Networks (NIPS'2024)
+ - DeepTAGE: Deep Temporal-Aligned Gradient Enhancement for Optimizing Spiking Neural Networks (ICLR'2025)
 
 ### Hybrid Learning
 
@@ -258,6 +263,7 @@ Coming Soon...
  - Efficient Training of Spiking Neural Networks with Multi-Parallel Implicit Stream Architecture (ECCV'2024)
  - Towards Efficient Spiking Transformer: a Token Sparsification Framework for Training and Inference Acceleration (ICML'2024)
  - EC-SNN: Splitting Deep Spiking Neural Networks for Edge Devices (IJCAI'2024)
+ - Temporal Flexibility in Spiking Neural Networks: Towards Generalization Across Time Steps and Deployment Friendliness (ICLR'2025)
 
 ### Solver with Spiking Neural Networks
   - Slack-Free Spiking Neural Network Formulation for Hypergraph Minimum Vertex Cover (NIPS'2024)
