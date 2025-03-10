@@ -79,6 +79,9 @@ Coming Soon...
  - Spiking Token Mixer: An Event-Driven Friendly Former Structure for Spiking Neural Networks (NIPS'2024)
  - Spiking Transformer with Experts Mixture (NIPS'2024)
  - SpikingResformer: Bridging ResNet and Vision Transformer in Spiking Neural Networks (CVPR'2024)
+ - Quantized Spike-driven Transformer (ICLR'2025)
+ - SpikeGPT: Generative Pre-trained Language Model with Spiking Neural Networks (ICLR'2025)
+ - 
 
 ### Spiking Recurrent Neural Network
  
@@ -132,6 +135,7 @@ Coming Soon...
  - Towards Efficient Deep Spiking Neural Networks Construction with Spiking Activity based Pruning (ICML'2024)
  - Reversing Structural Pattern Learning with Biologically Inspired Knowledge Distillation for Spiking Neural Networks (MM'2024)
  - Q-SNNs: Quantized Spiking Neural Networks (MM'2024)
+ - Improving the Sparse Structure Learning of Spiking Neural Networks from the View of Compression Efficiency (ICLR'2025)
 
 ### ANN2SNN
 
@@ -175,6 +179,7 @@ Coming Soon...
  - CLIF: Complementary Leaky Integrate-and-Fire Neuron for Spiking Neural Networks (ICML'2024)
  - Autaptic Synaptic Circuit Enhances Spatio-temporal Predictive Learning of Spiking Neural Networks (ICML'2024)
  - Rethinking the Membrane Dynamics and Optimization Objectives of Spiking Neural Networks (NIPS'2024)
+ - TS-LIF: A Temporal Segment Spiking Neuron Network For Time Series Forecasting (ICLR'2025)
 
 ### Bio-inspired Training Loss Optimization
 
