@@ -3,13 +3,17 @@
 This repository collected papers on brain-inspired systems published in influential conferences from 2021 to 2024. You can add more related papers by pulling the request. 😊
 
 **Suggested follow-up research sequence for future contributors**: 
-  - AI-related: AAAI, ICLR, CVPR, ICCV, IJCAI, MM, ICML, NIPS, ECCV
-  - Sys-related: ASPLOS, MICRO, DAC, ...
+  - AAAI, ICLR, CVPR, ICCV, IJCAI, MM, ICML, NIPS, ECCV
 
 ## TODO List
 
- - [] 2025年暂缺
- - [] 系统相关的会议文章21-24待完善
+ - [x] ICLR 2025
+ - [ ] AAAI 2025
+ - [ ] ICCV 2025
+ - [ ] MM 2025
+ - [ ] ICML 2025
+ - [ ] NIPS 2025
+ - [ ] ECCV 2025
 
 ## System-related Paper
 
@@ -79,6 +83,8 @@ Coming Soon...
  - Spiking Token Mixer: An Event-Driven Friendly Former Structure for Spiking Neural Networks (NIPS'2024)
  - Spiking Transformer with Experts Mixture (NIPS'2024)
  - SpikingResformer: Bridging ResNet and Vision Transformer in Spiking Neural Networks (CVPR'2024)
+ - Spike2Former: Efficient Spiking Transformer for High-performance Image Segmentation (AAAI'2025)
+ - Advancing Spiking Neural Networks Towards Multiscale Spatiotemporal Interaction Learning (AAAI'2025)
  - Quantized Spike-driven Transformer (ICLR'2025)
  - SpikeGPT: Generative Pre-trained Language Model with Spiking Neural Networks (ICLR'2025)
  - Spiking Vision Transformer with Saccadic Attention (ICLR'2025)
@@ -91,6 +97,7 @@ Coming Soon...
  - Evolving Connectivity for Recurrent Spiking Neural Networks (NIPS'2023)
  - EAS-SNN: End-to-End Adaptive Sampling and Representation for Event-based Detection with Recurrent Spiking Neural Networks (ECCV'2024)
  - RSNN: Recurrent Spiking Neural Networks for Dynamic Spatial-Temporal Information Processing (MM'2024)
+ - GRSN: Gated Recurrent Spiking Neurons for POMDPs and MARL (AAAI'2025)
 
 ### Spiking Convolutional Neural Network
 
@@ -108,6 +115,7 @@ Coming Soon...
  - Learning A Spiking Neural Network for Efficient Image Deraining (IJCAI'2024)
  - Autonomous Driving with Spiking Neural Networks (NIPS'2024)
  - SFOD: Spiking Fusion Object Detector (CVPR'2024)
+ - SpikingYOLOX: Improved YOLOX Object Detection with Fast Fourier Convolution and Spiking Neural Networks (AAAI'2025)
 
 ### Spike-driven MLP
 
@@ -213,6 +221,7 @@ Coming Soon...
  - Learnable Surrogate Gradient for Direct Training Spiking Neural Networks (IJCAI'2023)
  - Advancing Training Efficiency of Deep Spiking Neural Networks through Rate-based Backpropagation (NIPS'2024)
  - Take A Shortcut Back: Mitigating the Gradient Vanishing for Training Spiking Neural Networks (NIPS'2024)
+ - Towards Accurate Binary Spiking Neural Networks: Learning with Adaptive Gradient Modulation Mechanism (AAAI'2025)
  - DeepTAGE: Deep Temporal-Aligned Gradient Enhancement for Optimizing Spiking Neural Networks (ICLR'2025)
 
 ### Hybrid Learning
@@ -222,7 +231,7 @@ Coming Soon...
  - SEENN: Towards Temporal Spiking Early-Exit Neural Networks (NIPS'2023)
  - EICIL: Joint Excitatory Inhibitory Cycle Iteration Learning for Deep Spiking Neural Networks (NIPS'2023)
  - Towards Low-latency Event-based Visual Recognition with Hybrid Step-wise Distillation Spiking Neural Networks (MM'2024)
- - piking Neural Network as Adaptive Event Stream Slicer (NIPS'2024)
+ - Spiking Neural Network as Adaptive Event Stream Slicer (NIPS'2024)
  - SFOD: Spiking Fusion Object Detector (CVPR'2024)
 
 ### Adversarial Spiking Neural Networks
