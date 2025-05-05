@@ -57,6 +57,7 @@ Coming Soon...
   - Dynamic Reactive Spiking Graph Neural Network (AAAI'2024)
   - Temporal Spiking Neural Networks with Synaptic Delay for Graph Reasoning (ICML'2024)
   - Spiking Graph Neural Network on Riemannian Manifolds (NIPS'2024)
+  - Leveraging Asynchronous Spiking Neural Networks for Ultra Efficient Event-Based Visual Processing (AAAI'2025)
 
 ### Spiking Attention Mechanism
 
@@ -167,6 +168,7 @@ Coming Soon...
  - Towards High-performance Spiking Transformers from ANN to SNN Conversion (MM'2024)
  - EnOF-SNN: Training Accurate Spiking Neural Networks via Enhancing the Output Feature (NIPS'2024)
  - SpikedAttention: Training-Free and Fully Spike-Driven Transformer-to-SNN Conversion with Winner-Oriented Spike Shift for Softmax Operation (NIPS'2024)
+ - Adaptive Calibration: A Unified Conversion Framework of Spiking Neural Networks (AAAI'2025)
 
 ### Bio-inspired Neuron Optimization
 
