@@ -100,6 +100,7 @@ Coming Soon...
  - EAS-SNN: End-to-End Adaptive Sampling and Representation for Event-based Detection with Recurrent Spiking Neural Networks (ECCV'2024)
  - RSNN: Recurrent Spiking Neural Networks for Dynamic Spatial-Temporal Information Processing (MM'2024)
  - GRSN: Gated Recurrent Spiking Neurons for POMDPs and MARL (AAAI'2025)
+ - UCF-Crime-DVS: A Novel Event-Based Dataset for Video Anomaly Detection with Spiking Neural Networks (AAAI'2025)
 
 ### Spiking Convolutional Neural Network
 
