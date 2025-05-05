@@ -8,7 +8,8 @@ This repository collected papers on brain-inspired systems published in influent
 ## TODO List
 
  - [x] ICLR 2025
- - [ ] AAAI 2025
+ - [x] AAAI 2025
+ - [ ] IJCAI 2025
  - [ ] ICCV 2025
  - [ ] MM 2025
  - [ ] ICML 2025
@@ -58,6 +59,7 @@ Coming Soon...
   - Temporal Spiking Neural Networks with Synaptic Delay for Graph Reasoning (ICML'2024)
   - Spiking Graph Neural Network on Riemannian Manifolds (NIPS'2024)
   - Leveraging Asynchronous Spiking Neural Networks for Ultra Efficient Event-Based Visual Processing (AAAI'2025)
+  - Noise-Injected Spiking Graph Convolution for Energy-Efficient 3D Point Cloud Denoising (AAAI'2025)
 
 ### Spiking Attention Mechanism
 
@@ -86,6 +88,7 @@ Coming Soon...
  - SpikingResformer: Bridging ResNet and Vision Transformer in Spiking Neural Networks (CVPR'2024)
  - Spike2Former: Efficient Spiking Transformer for High-performance Image Segmentation (AAAI'2025)
  - Advancing Spiking Neural Networks Towards Multiscale Spatiotemporal Interaction Learning (AAAI'2025)
+ - FSTA-SNN:Frequency-Based Spatial-Temporal Attention Module for Spiking Neural Networks (AAAI'2025)
  - Spiking Point Transformer for Point Cloud Classification (AAAI'2025)
  - Quantized Spike-driven Transformer (ICLR'2025)
  - SpikeGPT: Generative Pre-trained Language Model with Spiking Neural Networks (ICLR'2025)
@@ -120,6 +123,7 @@ Coming Soon...
  - SFOD: Spiking Fusion Object Detector (CVPR'2024)
  - SpikingYOLOX: Improved YOLOX Object Detection with Fast Fourier Convolution and Spiking Neural Networks (AAAI'2025)
  - CREST: An Efficient Conjointly-trained Spike-driven Framework for Event-based Object Detection Exploiting Spatiotemporal Dynamics (AAAI'2025)
+ - Efficient 3D Recognition with Event-driven Spike Sparse Convolution (AAAI'2025)
 
 ### Spike-driven MLP
 
@@ -261,6 +265,7 @@ Coming Soon...
  - A progressive training framework for spiking neural networks with a learnable multi-hierarchical model (ICLR'2023)
  - Efficient Spiking Neural Networks with Sparse Selective Activation for Continual Learning (AAAI'2024)
  - Hebbian learning-based orthogonal projection for continual learning of spiking neural networks (ICLR'2024)
+ - ALADE-SNN: Adaptive Logit Alignment in Dynamically Expandable Spiking Neural Networks for Class Incremental Learning (AAAI'2025)
 
 ### Online Learning with Spiking Neural Networks
 
