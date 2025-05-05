@@ -86,6 +86,7 @@ Coming Soon...
  - SpikingResformer: Bridging ResNet and Vision Transformer in Spiking Neural Networks (CVPR'2024)
  - Spike2Former: Efficient Spiking Transformer for High-performance Image Segmentation (AAAI'2025)
  - Advancing Spiking Neural Networks Towards Multiscale Spatiotemporal Interaction Learning (AAAI'2025)
+ - Spiking Point Transformer for Point Cloud Classification (AAAI'2025)
  - Quantized Spike-driven Transformer (ICLR'2025)
  - SpikeGPT: Generative Pre-trained Language Model with Spiking Neural Networks (ICLR'2025)
  - Spiking Vision Transformer with Saccadic Attention (ICLR'2025)
@@ -117,6 +118,7 @@ Coming Soon...
  - Autonomous Driving with Spiking Neural Networks (NIPS'2024)
  - SFOD: Spiking Fusion Object Detector (CVPR'2024)
  - SpikingYOLOX: Improved YOLOX Object Detection with Fast Fourier Convolution and Spiking Neural Networks (AAAI'2025)
+ - CREST: An Efficient Conjointly-trained Spike-driven Framework for Event-based Object Detection Exploiting Spatiotemporal Dynamics (AAAI'2025)
 
 ### Spike-driven MLP
 
